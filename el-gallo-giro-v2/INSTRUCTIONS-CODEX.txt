@@ -1,0 +1,10 @@
+Reprends le projet El Gallo Giro pour mon client Charles à partir du ZIP el-gallo-giro-v2.zip. Il s’agit de la V2 validée visuellement : conserve fidèlement le design, les photos, les couleurs, les typographies et la composition. Ne repars pas de zéro.
+
+1. Repère le ZIP dans mon dossier de téléchargements ou dans le dossier courant. Extrais-le dans un nouveau dossier sans écraser un projet existant. Lis README.md et inspecte les fichiers.
+2. Vérifie Node et les versions exigées par les dépendances ; utilise une version compatible. Installe avec npm ci, lance npm run dev et donne-moi l’URL locale.
+3. Vérifie le rendu à 390, 768 et 1440 px, en anglais et en espagnol : aucun débordement, texte tronqué ou bouton masqué. Vérifie les images, les filtres, la recherche des restaurants, le dialogue de commande et son utilisation au clavier. Corrige seulement les défauts constatés en conservant le design validé.
+4. Exécute npm run build et résume ce qui fonctionne et les éventuels points à terminer.
+5. Pour Toast, conserve pour l’instant les redirections existantes. Consulte la documentation officielle afin de lister précisément les accès nécessaires pour synchroniser menus, prix, disponibilités et restaurants. Distingue cela des droits de création de commandes, paiement et fidélité. Ne simule pas une API connectée et n’intègre aucune clé côté navigateur.
+6. Prépare un court plan de passage en production : URLs EN/ES, SEO local par restaurant, données réelles, hébergement et intégration Toast. N’ajoute pas de prix, horaires ou avis inventés.
+
+Travaille localement pour cette étape. Ne touche pas au site gallogiro.com en production ni à ses DNS. Ne déploie pas et ne crée pas de dépôt distant avant ma demande. Avance sans me redemander confirmation pour les opérations locales réversibles.
