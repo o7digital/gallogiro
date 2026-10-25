@@ -1,0 +1,103 @@
+{
+  "source": "https://gallogiro.com/",
+  "collectedAt": "2026-10-25",
+  "items": [
+    {
+      "id": "menu",
+      "en": "Menu",
+      "es": "Menú",
+      "children": [
+        {
+          "label": "9009 Alondra Boulevard, Bellflower, CA",
+          "href": "https://gallogiro.com/menu/8-1-el-gallo-giro-bellflower-9009-alondra-boulevard"
+        },
+        {
+          "label": "11420 Laurel Canyon Blvd, San Fernando, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-san-fernando-11420-laurel-canyon-blvd"
+        },
+        {
+          "label": "7148 Pacific Boulevard, Huntington Park, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-huntington-park-7148-pacific-boulevard"
+        },
+        {
+          "label": "3180 East Imperial Highway, Lynwood, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-lynwood-3180-east-imperial-highway"
+        },
+        {
+          "label": "14480 Sherman Way, Los Angeles, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-van-nuys-14480-sherman-way"
+        },
+        {
+          "label": "20901 Sherman Way, Canoga Park, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-canoga-park-20901-sherman-way"
+        },
+        {
+          "label": "888 S Indian Hill Blvd, Claremont, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-claremont-nro-888-s-indian-hill-blvd"
+        },
+        {
+          "label": "990 South Euclid Street, Anaheim, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-anaheim-990-south-euclid-street"
+        },
+        {
+          "label": "8309 Van Nuys Boulevard, Panorama City, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-panorama-city-8309-van-nuys-boulevard"
+        },
+        {
+          "label": "1442 South Bristol Street, Santa Ana, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street"
+        },
+        {
+          "label": "10161 Sierra Avenue, Fontana, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-fontana-10161-sierra-avenue"
+        },
+        {
+          "label": "West Whittier Boulevard, Los Angeles, CA",
+          "href": "https://gallogiro.com/menu/el-gallo-giro-east-la-west-whittier-boulevard"
+        }
+      ]
+    },
+    {
+      "id": "about",
+      "en": "About",
+      "es": "Nosotros",
+      "href": "https://gallogiro.com/about"
+    },
+    {
+      "id": "catering",
+      "en": "Catering",
+      "es": "Catering",
+      "href": "https://gallogiro.com/catering"
+    },
+    {
+      "id": "newsletter",
+      "en": "Newsletter",
+      "es": "Boletín",
+      "href": "https://gallogiro.com/email-marketing-page"
+    },
+    {
+      "id": "gift-cards",
+      "en": "Gift Cards",
+      "es": "Tarjetas de regalo",
+      "href": "https://gallogiro.com/gift-card-purchase"
+    },
+    {
+      "id": "careers",
+      "en": "Careers",
+      "es": "Empleos",
+      "href": "https://gallogiro.com/careers"
+    },
+    {
+      "id": "more",
+      "en": "More",
+      "es": "Más",
+      "children": [
+        {
+          "label": "Contact Us",
+          "es": "Contáctanos",
+          "href": "https://gallogiro.com/contact-us"
+        }
+      ]
+    }
+  ]
+}

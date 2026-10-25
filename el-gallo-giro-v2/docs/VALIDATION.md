@@ -29,3 +29,11 @@ Aucun push ni déploiement pour cette étape locale ; aucun changement du site g
 - `npm run build` final : réussi. Vite signale un bundle de contenu de 797 kB (94 kB gzip), à fractionner si nécessaire lors du travail de performance avant production.
 - Le serveur de développement est relancé et répond sur http://127.0.0.1:4322/.
 - Changements conservés et commités localement sur la branche de travail ; aucun push ou déploiement à cette étape.
+
+## Correction de la navigation du header
+
+Le header reprend désormais l’ordre et les destinations relevés dans le DOM rendu du site officiel : Menu (12 établissements dans l’ordre publié), About, Catering, Newsletter, Gift Cards, Careers, More → Contact Us. Source et relevé sont dans `src/data/navigation.json`. Les intitulés anglais sont ceux du site ; la version espagnole est traduite. Les liens sont ceux du site officiel.
+
+La navigation simplifiée et la barre mobile de liens aux rubriques de la maquette ont été remplacées par cette structure. Le style V2 est conservé ; sous 1200 px, un bouton ouvre le même menu avec ses sous-menus. Échap referme les sous-menus puis le menu mobile et restitue le focus ; le clic hors du header referme également la navigation.
+
+Compilation réussie et contrôle Chromium à 390, 768 et 1440 px en EN/ES : intitulés, ordre, liens, 12 sous-liens de Menu, More/Contact Us, clavier et absence de débordement validés. Scénario : `NODE_PATH=/tmp/gallogiro-qa/node_modules node scripts/header-check.cjs` (aperçu Astro sur 4323 ou BASE_URL explicite).

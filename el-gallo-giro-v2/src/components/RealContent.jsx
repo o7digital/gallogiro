@@ -7,7 +7,7 @@ const productMap=Object.fromEntries(products.map(p=>[p.id,p]));
 const categoryEs={'Tortas':'Tortas','Double Tortas':'Tortas dobles','Tacos Grande':'Tacos grandes','Tacos Regular':'Tacos regulares','Burritos':'Burritos','Family Packs':'Paquetes familiares','Breakfast':'Desayunos','Salads':'Ensaladas','Desserts':'Postres','Aguas Frescas':'Aguas frescas','Other Beverages':'Otras bebidas','Bolillo':'Bolillo','Conchas':'Conchas','Danes':'Danés','Feite':'Feite','Fino':'Fino','Galletas':'Galletas','Pan de Muerto (Seasonal)':'Pan de muerto (de temporada)'};
 export const money=value=>new Intl.NumberFormat('en-US',{style:'currency',currency:'USD'}).format(value);
 export function RestaurantSelect({restaurantId,onChange,es,id='restaurant'}){return <div className="restaurant-select"><label htmlFor={id}>{es?'TU RESTAURANTE':'YOUR RESTAURANT'}</label><select id={id} value={restaurantId} onChange={e=>onChange(e.target.value)}>{locations.map(l=><option key={l.id} value={l.id}>{l.name}</option>)}</select></div>}
-export function RestaurantBar({restaurant,onChange,es}){return <div className="restaurant-bar"><RestaurantSelect restaurantId={restaurant.id} onChange={onChange} es={es}/><p>{restaurant.address}</p><div className="quick-links"><a href="#rewards">Mi Gallo Rewards ↗</a><a href="#gift-cards">{es?'Tarjetas de regalo':'Gift cards'} ↗</a></div></div>}
+export function RestaurantBar({restaurant,onChange,es}){return <div className="restaurant-bar"><RestaurantSelect restaurantId={restaurant.id} onChange={onChange} es={es}/><p>{restaurant.address}</p></div>}
 export function MenuExplorer({restaurant,es}){
  const t=(en,sp)=>es?sp:en, menu=menus[restaurant.id];
  const [category,setCategory]=useState('Tortas'),[query,setQuery]=useState(''),[item,setItem]=useState(null);
