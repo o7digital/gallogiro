@@ -28,3 +28,11 @@ Compilation réussie et contrôle visuel desktop ; basculement EN/ES, filtre Tor
 Photographies et logo récupérés du site officiel gallogiro.com pour la proposition au client. Aucun visuel concurrent. Conserver l’usage dans le cadre du projet El Gallo Giro.
 
 Le ZIP ne contient aucun identifiant de déploiement, secret, node_modules ou historique Git.
+
+## Contenu officiel — reprise locale
+
+Le menu réel est désormais stocké par restaurant dans `src/data/`, avec les URL sources et la date de collecte (25 octobre 2026). Onze menus sont importés ; San Fernando conserve un lien officiel sans substituer le menu d’un autre établissement. Le choix du restaurant et la langue persistent localement.
+
+Les fiches produits exposent descriptions, prix publiés et options vérifiées pour Santa Ana. Les commandes, paiements, inscriptions Rewards et cartes cadeaux restent sur les destinations officielles. La maquette ne possède aucune connexion API en temps réel.
+
+Consulter `docs/CONTENU-OFFICIEL.md` pour l’inventaire, les sources, les limites et la régénération ; `node scripts/verify-content.mjs` contrôle les données importées.

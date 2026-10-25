@@ -1,0 +1,30 @@
+{
+  "collectedAt": "2026-10-25",
+  "restaurantId": null,
+  "source": "https://gallogiro.com/",
+  "story": {
+    "en": ["Since 1987, El Gallo Giro has become a home where Mexican food and culture have developed into memories of flavor, family and fun.", "Our Torteros grill your Tortas à la plancha per order, in front of you. Our bakers bake Bolillos, Conchitas, Cuernitos, Elotes, Orejas, Mantecadas and Puerquitos throughout the day."],
+    "es": ["Desde 1987, El Gallo Giro se ha convertido en un hogar donde la comida y la cultura mexicanas crean recuerdos de sabor, familia y diversión.", "Nuestros torteros preparan tus tortas a la plancha al momento, frente a ti. Nuestros panaderos hornean bolillos, conchitas, cuernitos, elotes, orejas, mantecadas y puerquitos durante el día."]
+  },
+  "catering": {
+    "source": "https://gallogiro.com/catering",
+    "contactUrl": "https://gallogiro.com/contact-us",
+    "en": "Family packs with your choice of protein, rice, beans, chips, salsa, tortillas and chiles asados. For groups of more than 15 people, contact El Gallo Giro about packages with carnitas and sides.",
+    "es": "Paquetes familiares con la proteína que elijas, arroz, frijoles, totopos, salsa, tortillas y chiles asados. Para grupos de más de 15 personas, contacta a El Gallo Giro sobre los paquetes de carnitas y guarniciones."
+  },
+  "rewards": {
+    "source": "https://gallogiro.com/",
+    "restaurantId": "anaheim",
+    "url": "https://www.toasttab.com/el-gallo-giro-anaheim-990-south-euclid-street/rewardsSignup?utm_content=home&utm_medium=toast_sites&utm_source=undefined&utm_term=cards_section",
+    "name": "Mi Gallo Rewards",
+    "en": "Receive 10 Gallitos for every $1 spent. The official signup link is associated with Anaheim; consult the program terms on Toast.",
+    "es": "Recibe 10 Gallitos por cada $1 gastado. El enlace oficial de inscripción está asociado a Anaheim; consulta las condiciones del programa en Toast."
+  },
+  "giftCards": {
+    "source": "https://gallogiro.com/",
+    "url": "https://gallogiro.com/gift-card-purchase",
+    "en": "Send a digital gift card to a friend or family member.",
+    "es": "Envía una tarjeta de regalo digital a un amigo o familiar."
+  },
+  "translation": "Official English source, editorial Spanish translation. Product names preserved as published."
+}

@@ -1,0 +1,314 @@
+Order Online | Authentic Mexican Takeout | El Gallo Giro (https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street)
+citeturn7view0 [wordlim: 200] Crawled: today; Content type: text/html; Source: open({"ref_id":"https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street","lineno":null}); Total lines: 311
+L0:   *   * 【0†El Gallo Giro】
+L1: 
+L2:   *   * [Button: Sign in]
+L3: 
+L4: Only accepting scheduled orders
+L5: 
+L6: ## Menu
+L7: 
+L8: 1442 South Bristol Street, Santa Ana, CA[Button: Change location]
+L9: 
+L10: Best Sellers
+L11: 
+L12: Food Menu
+L13: 
+L14: Aguas Frescas
+L15: 
+L16: Other Beverages
+L17: 
+L18: Bakery
+L19: ## Best Sellers
+L20:   * 【1†Cubana Torta Our signature and best-selling Torta is made fresh to order on a toasted telera roll with marinated pork loin, breaded beef, ham, head cheese, panela cheese, refried beans, avocado, lettuce, tomato, jalapeños, marinated onions, and mayo$14.99】
+L21:   * 【2†Asada Burrito A hearty favorite made fresh to order with grilled carne asada, rice, beans, cilantro, and onions wrapped in a warm flour tortilla.$12.99】
+L22:   * 【3†Carnitas Burrito Made fresh to order with tender, slow-cooked carnitas, rice, beans, cilantro, and onions wrapped in a warm flour tortilla for rich, authentic flavor.$11.99】
+L23:   * 【4†Asada Taco Grande A Mexican street-food favorite, made fresh to order on a warm corn tortilla with grilled carne asada, cilantro, and onions for a simple, authentic flavor in every bite.$5.60】
+L24:   * 【5†1Lb Family Pack Feeds 2-3 people with your choice of protein, rice, beans, chips, salsa, tortillas and chiles asados.】
+L25:   * 【6†4 Torta Box Choose any four tortas, each made fresh to order on a toasted telera roll with authentic ingredients and fresh toppings for a shareable meal packed with variety.$55.95】
+L26:   * 【7†4 Tacos Combo Four street-style tacos with your choice of protein, served with Mexican rice, refried beans, onions, cilantro, and salsa.$14.99】
+L27:   * 【8†4 Burrito Box Choose any four burritos, each made fresh to order with rice, beans, cilantro, and onions wrapped in a warm flour tortilla for an easy, crowd-pleasing meal.$44.99】
+L28:   * 【9†Huevo Con Jamon Platillo Fresh scrambled eggs with ham, served with rice, beans, salsa, and warm tortillas.$8.49】
+L29:   * 【10†Bolillo Traditional Mexican rolls baked fresh throughout the day with a light interior and golden crust.$0.65】
+L30:   * 【11†Concha Blanca Fresh-baked sweet bread with a soft center and signature crumbly topping. *Our Conchas are baked fresh throughout the day and are available while supplies last. If your selected flavor sells out towards the end of the day, we’ll substitute it with another available flavor.OUT OF STOCK$1.25】
+L31:   * 【12†Concha Chocolate Fresh-baked sweet bread with a soft center and signature crumbly topping. *Our Conchas are baked fresh throughout the day and are available while supplies last. If your selected flavor sells out towards the end of the day, we’ll substitute it with another available flavor.OUT OF STOCK$1.25】
+L32:   * 【13†Agua Mamey A smooth, tropical agua fresca made with ripe mamey, water, and sugar, delivering a naturally sweet and refreshing flavor in 20 oz, 32 oz, and 44 oz sizes.】
+L33:   * 【14†Agua Horchata A creamy, refreshing agua fresca made fresh daily with rice, cinnamon, milk, water, and sugar for an authentic traditional flavor, available in 20 oz, 32 oz, and 44 oz sizes.】
+L34:   * 【15†Pan De Muerto Pequeno Traditional pan de muerto, freshly baked with a soft, fluffy center and rich, buttery flavor.$3.99】
+L35: * * *
+L36: ## Food Menu
+L37: ### Tortas
+L38:   * 【16†4 Torta Box Choose any four tortas, each made fresh to order on a toasted telera roll with authentic ingredients and fresh toppings for a shareable meal packed with variety.$55.95】
+L39:   * 【17†Cubana Torta Our signature and best-selling Torta is made fresh to order on a toasted telera roll with marinated pork loin, breaded beef, ham, head cheese, panela cheese, refried beans, avocado, lettuce, tomato, jalapeños, marinated onions, and mayo$14.99】
+L40:   * 【18†Asada Torta A hearty Mexican staple made fresh to order on a toasted telera roll with grilled carne asada, panela cheese, refried beans, avocado, lettuce, tomato, jalapeños, marinated onions, and mayo$15.29】
+L41:   * 【19†Milanesa Torta A classic Mexican favorite made fresh to order on a toasted telera roll with crispy breaded beef, panela cheese, refried beans, avocado, lettuce, tomato, jalapeños, marinated onions, and mayo.$15.29】
+L42:   * 【20†Carnitas Torta A comforting Mexican classic made fresh to order on a toasted telera roll with slow-cooked carnitas, panela cheese, refried beans, avocado, lettuce, tomato, jalapeños, marinated onions, and mayo.$12.29】
+L43:   * 【21†Jamon & Queso Panela Torta A timeless Mexican favorite made fresh to order on a toasted telera roll with grilled ham, panela cheese, refried beans, avocado, lettuce, tomato, jalapeños, marinated onions, and mayo.$9.59】
+L44:   * 【22†Pollo Torta A fresh and satisfying torta made fresh to order on a toasted telera roll with grilled chicken, panela cheese, refried beans, avocado, lettuce, tomato, jalapeños, marinated onions, and mayo.$12.99】
+L45:   * 【23†Pierna Adobada Torta A bold and flavorful torta made fresh to order on a toasted telera roll with adobo-marinated pork leg, panela cheese, refried beans, avocado, lettuce, tomato, jalapeños, marinated onions, and mayo.$12.99】
+L46:   * 【24†Pastor Torta A flavorful Mexican classic made fresh to order on a toasted telera roll with marinated al pastor pork, panela cheese, refried beans, avocado, lettuce, tomato, jalapeños, marinated onions, and mayo.$12.99】
+L47: ### Double Tortas
+L48:   * 【25†Double Cubana Torta$21.49】
+L49:   * 【26†Double Asada Torta$21.49】
+L50:   * 【27†Double Milanesa Torta$19.99】
+L51:   * 【28†Double Carnitas Torta$15.99】
+L52:   * 【29†Double Jamon & Queso Panela Torta$13.49】
+L53:   * 【30†Double Pollo Torta$16.75】
+L54:   * 【31†Double Pierna Adobada Torta$16.99】
+L55:   * 【32†Double Pastor Torta$16.99】
+L56:   * 【33†Double Super Gallo Torta$19.99】
+L57:   * 【34†Double Aguacate Torta$12.99】
+L58:   * 【35†Double Queso Panela Torta$12.99】
+L59:   * 【36†Double Chorizo Torta$16.99】
+L60:   * 【37†Double Fritanga Torta$16.99】
+L61:   * 【38†Double Buche Torta$16.99】
+L62:   * 【39†Double Queso de Puerco Torta$16.99】
+L63:   * 【40†Double Trompa Torta$16.99】
+L64: ### Tacos Grande
+L65:   * 【41†Asada Taco Grande A Mexican street-food favorite, made fresh to order on a warm corn tortilla with grilled carne asada, cilantro, and onions for a simple, authentic flavor in every bite.$5.60】
+L66:   * 【42†Carnitas Taco Grande A classic taco made fresh to order on a warm corn tortilla with tender, slow-cooked carnitas, cilantro, and onions for a rich, traditional taste.$5.25】
+L67:   * 【43†Pastor Taco Grande A customer favorite made fresh to order on a warm corn tortilla with marinated al pastor pork, cilantro, and onions for a savory, flavorful bite.$5.25】
+L68:   * 【44†Pollo Taco Grande A satisfying taco made to order on a warm corn tortilla with juicy grilled chicken, cilantro, and onions for a fresh take on a Mexican classic.$5.25】
+L69:   * 【45†Chorizo Taco Grande A bold and flavorful taco made fresh to order on a warm corn tortilla with savory Mexican sausage, cilantro, and onions for a delicious bite.$5.50】
+L70:   * 【46†Fritanga Taco Grande A flavorful taco made fresh to order on a warm corn tortilla with seasoned mixed pork cuts, cilantro, and onions for a rich, authentic taquería-style experience.$5.50】
+L71:   * 【47†Trompa Taco Grande A traditional taco made fresh to order on a warm corn tortilla with seasoned pork snout, cilantro, and onions for a bold, authentic street-taco favorite.$5.50】
+L72:   * 【48†Buche Taco Grande Made fresh to order on a warm corn tortilla with tender, slow-cooked pork stomach, cilantro, and onions for a rich and traditional Mexican flavor.$5.50】
+L73:   * 【49†Bean & Cheese Taco Grande A simple vegetarian favorite made fresh to order on a warm corn tortilla with creamy refried beans and melted cheese for comforting, authentic flavor.$3.19】
+L74: ### Tacos Regular
+L75:   * 【50†4 Tacos Combo Four street-style tacos with your choice of protein, served with Mexican rice, refried beans, onions, cilantro, and salsa.$14.99】
+L76:   * 【51†Asada Taco Regular A Mexican street-food favorite, made fresh to order on a warm corn tortilla with grilled carne asada, cilantro, and onions for a simple, authentic flavor in every bite.$3.50】
+L77:   * 【52†Carnitas Taco Regular A classic taco made fresh to order on a warm corn tortilla with tender, slow-cooked carnitas, cilantro, and onions for a rich, traditional taste.$2.99】
+L78:   * 【53†Pollo Taco Regular A satisfying taco made to order on a warm corn tortilla with juicy grilled chicken, cilantro, and onions for a fresh take on a Mexican classic.$2.99】
+L79:   * 【54†Chorizo Taco Regular A bold and flavorful taco made fresh to order on a warm corn tortilla with savory Mexican sausage, cilantro, and onions for a delicious bite.$3.25】
+L80:   * 【55†Fritanga Taco Regular A flavorful taco made fresh to order on a warm corn tortilla with seasoned mixed pork cuts, cilantro, and onions for a rich, authentic taquería-style experience.$3.25】
+L81:   * 【56†Buche Taco Regular Made fresh to order on a warm corn tortilla with tender, slow-cooked pork stomach, cilantro, and onions for a rich and traditional Mexican flavor.$3.25】
+L82:   * 【57†Trompa Taco Regular A traditional taco made fresh to order on a warm corn tortilla with seasoned pork snout, cilantro, and onions for a bold, authentic street-taco favorite.$3.25】
+L83:   * 【58†Pastor Taco Regular A customer favorite made fresh to order on a warm corn tortilla with marinated al pastor pork, cilantro, and onions for a savory, flavorful bite.$2.99】
+L84:   * 【59†Bean & Cheese Taco Regular A simple vegetarian favorite made fresh to order on a warm corn tortilla with creamy refried beans and melted cheese for comforting, authentic flavor.$1.59】
+L85: ### Burritos
+L86:   * 【60†4 Burrito Box Choose any four burritos, each made fresh to order with rice, beans, cilantro, and onions wrapped in a warm flour tortilla for an easy, crowd-pleasing meal.$44.99】
+L87:   * 【61†Asada Burrito A hearty favorite made fresh to order with grilled carne asada, rice, beans, cilantro, and onions wrapped in a warm flour tortilla.$12.99】
+L88:   * 【62†Carnitas Burrito Made fresh to order with tender, slow-cooked carnitas, rice, beans, cilantro, and onions wrapped in a warm flour tortilla for rich, authentic flavor.$11.99】
+L89:   * 【63†Pastor Burrito A customer favorite made fresh to order with marinated al pastor pork, rice, beans, cilantro, and onions wrapped in a warm flour tortilla.$11.99】
+L90:   * 【64†Pollo Burrito Made fresh to order with juicy grilled chicken, rice, beans, cilantro, and onions wrapped in a warm flour tortilla for a fresh and satisfying meal.$11.99】
+L91:   * 【65†Bean & Cheese Burrito A comforting vegetarian classic filled with creamy refried beans and melted cheese, wrapped in a warm flour tortilla.$6.99】
+L92:   * 【66†Fritanga Burrito Made fresh to order with a seasoned mix of traditional pork cuts, rice, beans, cilantro, and onions wrapped in a warm flour tortilla for bold taquería-style flavor.$11.99】
+L93:   * 【67†Buche Burrito Made fresh to order with tender, slow-cooked pork stomach, rice, beans, cilantro, and onions wrapped in a warm flour tortilla for an authentic Mexican favorite.$11.99】
+L94:   * 【68†Trompa Burrito Made fresh to order with seasoned pork snout, rice, beans, cilantro, and onions wrapped in a warm flour tortilla for a rich and traditional street-food experience.$11.99】
+L95:   * 【69†Chorizo Burrito Made fresh to order with savory Mexican chorizo, rice, beans, cilantro, and onions wrapped in a warm flour tortilla for a bold, smoky bite.$11.99】
+L96: ### Family Packs
+L97: 
+L98: Family meals with your choice of protein, rice, beans, chips, salsa, tortillas and chiles asados.
+L99:   * 【70†1Lb Family Pack Feeds 2-3 people with your choice of protein, rice, beans, chips, salsa, tortillas and chiles asados.】
+L100:   * 【71†2Lb Family Pack Feeds 5–6 people with your choice of protein, rice, beans, chips, salsa, onions with cilantro, tortillas and chiles asados.$49.95】
+L101:   * 【72†3Lb Family Pack Feeds 7–9 people with your choice of protein, rice, beans, chips, salsa, tortillas and chiles asados.$76.79】
+L102:   * 【73†5Lb Family Pack Feeds 12–15 people with your choice of protein, rice, beans, chips, salsa, tortillas and chiles asados.$125.99】
+L103: ### Breakfast
+L104:   * 【74†Huevo Con Jamon Platillo Fresh scrambled eggs with ham, served with rice, beans, salsa, and warm tortillas.$8.49】
+L105:   * 【75†Ham & Egg Burrito A warm flour tortilla filled with eggs, beans, rice and ham for a simple, satisfying breakfast.$8.25】
+L106:   * 【76†Ham & Egg Torta Made fresh to order with eggs, ham, panela cheese, and avocado on a toasted telera roll.$8.99】
+L107:   * 【77†Super Gallo Breakfast Torta Our ultimate breakfast torta loaded with eggs, ham, salchicha, Monterey Jack cheese, avocado, and chipotle sauce.$9.59】
+L108: ### Salads
+L109: 
+L110:   * 【78†Burrito Bowl Made fresh to order with your choice of protein, rice, beans, lettuce, tomatoes, panela cheese, and avocado for a hearty bowl packed with bold, authentic flavor.$11.69】
+L111:   * 【79†Green Salad A fresh and flavorful favorite made with crisp lettuce, ripe tomatoes, panela cheese, and creamy avocado for a light and satisfying taste of tradition.$11.69】
+L112: ### Desserts
+L113: 
+L114:   * 【80†Mosaico Vaso A light and refreshing Mexican-style gelatin dessert.$3.99】
+L115:   * 【81†Arroz Con Leche Vaso A traditional rice pudding made with milk and cinnamon for a creamy, comforting flavor$3.99】
+L116:   * 【82†Flan Vaso A silky vanilla custard topped with rich caramel sauce.$3.99】
+L117: 
+L118: * * *
+L119: ## Aguas Frescas
+L120:   * 【83†Agua Horchata A creamy, refreshing agua fresca made fresh daily with rice, cinnamon, milk, water, and sugar for an authentic traditional flavor, available in 20 oz, 32 oz, and 44 oz sizes.】
+L121:   * 【84†Agua Mamey A smooth, tropical agua fresca made with ripe mamey, water, and sugar, delivering a naturally sweet and refreshing flavor in 20 oz, 32 oz, and 44 oz sizes.】
+L122:   * 【85†Agua Jamaica Con Splenda A bold, sweet-tart agua fresca crafted from steeped hibiscus flowers, water, and splenda for a crisp and refreshing Mexican favorite, available in 20 oz, 32 oz, and 44 oz sizes.】
+L123:   * 【86†Agua Chia Con Limon A refreshing blend of lime juice, chia seeds, water, and sugar that combines bright citrus flavor with a satisfying texture, available in 20 oz, 32 oz, and 44 oz sizes.】
+L124:   * 【87†Agua Pepino Con Pina A crisp, refreshing blend of cool cucumber and sweet pineapple, made fresh for the perfect balance of fruity and refreshing flavors. It's the ultimate thirst-quencher for any meal.】
+L125:   * 【88†Agua Mango Dragon Fruit A vibrant tropical agua fresca made with mango, dragon fruit, water, and sugar for a sweet, fruity flavor and striking color, available in 20 oz, 32 oz, and 44 oz sizes.】
+L126: * * *
+L127: ## Other Beverages
+L128:   * 【89†Coke The original soft drink with its iconic sweet taste and crisp carbonation, served ice cold in 20 oz, 32 oz, and 44 oz sizes.】
+L129:   * 【90†Diet Coke A refreshing zero-calorie soda with a bold, smooth taste and crisp carbonation, available in 20 oz, 32 oz, and 44 oz sizes.】
+L130:   * 【91†Sprite A caffeine-free lemon-lime soda with a clean, crisp taste and refreshing carbonation, available in 20 oz, 32 oz, and 44 oz sizes.】
+L131:   * 【92†Fanta Bright, bubbly, and bursting with bold orange flavor, Orange Fanta is a refreshing classic served ice-cold. The perfect fizzy companion to any meal.】
+L132:   * 【93†Cafe de Olla Traditional Mexican coffee brewed with cinnamon and piloncillo for a rich, aromatic flavor, available in 12 oz, 20 oz, and 96 oz sizes.】
+L133:   * 【94†Champurrado A warm, thick Mexican chocolate drink made with masa harina, milk, chocolate, and cinnamon, available in 12 oz, 20 oz, and 96 oz sizes.】
+L134:   * 【95†Bottled Water Pure, crisp, and refreshingly clean, our bottled water is the perfect way to stay hydrated with any meal. A simple, refreshing choice anytime.$2.49】
+L135: * * *
+L136: ## Bakery
+L137: 
+L138: ### Bolillo
+L139: 
+L140: Traditional Mexican rolls baked fresh throughout the day with a light interior and golden crust.
+L141: 
+L142:   * 【96†Bolillo Traditional Mexican rolls baked fresh throughout the day with a light interior and golden crust.$0.65】
+L143: ### Conchas
+L144: 
+L145: Fresh-baked sweet bread with a soft center and signature crumbly topping.
+L146:   * 【97†Concha Blanca Fresh-baked sweet bread with a soft center and signature crumbly topping. *Our Conchas are baked fresh throughout the day and are available while supplies last. If your selected flavor sells out towards the end of the day, we’ll substitute it with another available flavor.OUT OF STOCK$1.25】
+L147:   * 【98†Concha Chocolate Fresh-baked sweet bread with a soft center and signature crumbly topping. *Our Conchas are baked fresh throughout the day and are available while supplies last. If your selected flavor sells out towards the end of the day, we’ll substitute it with another available flavor.OUT OF STOCK$1.25】
+L148: ### Danes
+L149: 
+L150:   * 【99†Bigote Danes A classic Mexican sweet bread thats brushed with melted butter and tossed in sugar$2.49】
+L151:   * 【100†Cuerno Danes A Mexican style sweet bread thats similar to a croissant$2.49】
+L152: 
+L153: ### Feite
+L154: 
+L155:   * 【101†Feite Guayaba A soft pastry filled with sweet guava paste and baked fresh daily.$2.49】
+L156: 
+L157: ### Fino
+L158: 
+L159:   * 【102†Elote Fino A traditional pan dulce with a soft, cake-like texture and delicate sweetness.$1.59】
+L160: ### Galletas
+L161: 
+L162:   * 【103†Puerquitos Traditional pig-shaped cookies flavored with cinnamon and piloncillo.$1.49】
+L163: 
+L164: ### Pan de Muerto (Seasonal)
+L165: 
+L166:   * 【104†Pan De Muerto Pequeno Traditional pan de muerto, freshly baked with a soft, fluffy center and rich, buttery flavor.$3.99】
+L167: 
+L168: ## El Gallo Giro Locations and Hours
+L169: 
+L170: Show Locations
+L171: 
+L172: ### 【105†888 S Indian Hill Blvd】
+L173: 
+L174: (909) 355-0273
+L175: 
+L176: 【106†888 S Indian Hill Blvd, Claremont, CA 91711†google.com】
+L177: 
+L178: Closed
+L179: 
+L180: All hours
+L181: 
+L182: 【105†View menu】
+L183: ### 【107†Anaheim】
+L184: 
+L185: (714) 635-5730
+L186: 
+L187: 【108†990 South Euclid Street, Anaheim, CA 92802†google.com】
+L188: 
+L189: Closed • Opens Sunday at 7AM
+L190: 
+L191: All hours
+L192: 
+L193: 【107†View menu】
+L194: 
+L195: ### 【109†Bellflower】
+L196: 
+L197: (562) 314-1441
+L198: 
+L199: 【110†9009 Alondra Boulevard, Bellflower, CA 90706†google.com】
+L200: 
+L201: Open now • Closes at 12AM
+L202: 
+L203: All hours
+L204: 
+L205: 【109†View menu】
+L206: 
+L207: ### 【111†Canoga Park】
+L208: 
+L209: (818) 835-8313
+L210: 
+L211: 【112†20901 Sherman Way, Canoga Park, CA 91303†google.com】
+L212: 
+L213: Closed • Opens Sunday at 6AM
+L214: 
+L215: All hours
+L216: 
+L217: 【111†View menu】
+L218: ### 【113†East LA】
+L219: 
+L220: (323) 726-1246
+L221: 
+L222: 【114†West Whittier Boulevard, Los Angeles, CA 90022†google.com】
+L223: 
+L224: Closed • Opens Sunday at 7AM
+L225: 
+L226: All hours
+L227: 
+L228: 【113†View menu】
+L229: 
+L230: ### 【115†Fontana】
+L231: 
+L232: (909) 355-0273
+L233: 
+L234: 【116†10161 Sierra Avenue, Fontana, CA 92335†google.com】
+L235: 
+L236: Open now • Closes at 12AM
+L237: 
+L238: All hours
+L239: 
+L240: 【115†View menu】
+L241: 
+L242: ### 【117†Huntington Park】
+L243: 
+L244: (323) 585-4433
+L245: 
+L246: 【118†7148 Pacific Boulevard, Huntington Park, CA 90255†google.com】
+L247: 
+L248: Closed • Opens Sunday at 7AM
+L249: 
+L250: All hours
+L251: 
+L252: 【117†View menu】
+L253: ### 【119†Lynwood】
+L254: 
+L255: (310) 667-4670
+L256: 
+L257: 【120†3180 East Imperial Highway, Lynwood, CA 90262†google.com】
+L258: 
+L259: Closed • Opens Sunday at 8AM
+L260: 
+L261: All hours
+L262: 
+L263: 【119†View menu】
+L264: 
+L265: ### 【121†Panorama City】
+L266: 
+L267: (818) 891-5533
+L268: 
+L269: 【122†8309 Van Nuys Boulevard, Panorama City, CA 91402†google.com】
+L270: 
+L271: Closed • Opens Sunday at 6AM
+L272: 
+L273: All hours
+L274: 
+L275: 【121†View menu】
+L276: 
+L277: ### 【123†San Fernando】
+L278: 
+L279: (818) 361-6169
+L280: 
+L281: 【124†11420 Laurel Canyon Blvd, San Fernando, CA 91340†google.com】
+L282: 
+L283: Closed • Opens Sunday at 6AM
+L284: 
+L285: All hours
+L286: 
+L287: 【123†View menu】
+L288: ### 【125†Santa Ana】
+L289: 
+L290: (714) 549-2011
+L291: 
+L292: 【126†1442 South Bristol Street, Santa Ana, CA 92704†google.com】
+L293: 
+L294: Open now • Closes at 12AM
+L295: 
+L296: All hours
+L297: 
+L298: 【125†View menu】
+L299: 
+L300: ### 【127†Van Nuys】
+L301: 
+L302: (818) 918-2830
+L303: 
+L304: 【128†14480 Sherman Way, Los Angeles, CA 91405†google.com】
+L305: 
+L306: Closed • Opens Sunday at 6AM
+L307: 
+L308: All hours
+L309: 
+L310: 【127†View menu】
+

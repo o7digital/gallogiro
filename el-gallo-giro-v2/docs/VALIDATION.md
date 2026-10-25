@@ -19,3 +19,13 @@ Les contrôles sont réalisés dans Chromium avec tailles simulées, pas sur app
 L’audit npm du verrouillage fourni remonte 5 vulnérabilités : Astro critique, sharp/zod/zod-to-ts élevées, esbuild faible. L’outil propose une migration majeure vers Astro 7.4.2 ; elle reste à préparer et vérifier avant production dans une tâche dédiée, sans modifier le design validé. Aucun audit fix --force appliqué.
 
 Aucun push ni déploiement pour cette étape locale ; aucun changement du site gallogiro.com ou des DNS. Plan d’intégration et de passage en production : PLAN-TOAST.md.
+
+## Mise à jour — contenu officiel, 25 octobre 2026
+
+- Inventaire et limites : `CONTENU-OFFICIEL.md` remplace la description de la maquette à six produits ci-dessus. Les données ne sont plus celles de démonstration.
+- `node scripts/verify-content.mjs` : réussi (provenance, association des restaurants, traductions, prix strictement positifs ou absents, fichiers image).
+- `NODE_PATH=/tmp/gallogiro-qa/node_modules node scripts/browser-check.cjs` : réussi sur 390/768/1440 px en EN/ES, toutes les catégories, recherches, fiches produits, 12 choix de restaurant, persistance après rechargement, images et ancres internes. Aucune erreur JavaScript.
+- Contrôle clavier complémentaire à 390 × 700 px : ouverture avec Entrée, navigation modale sans focus sur le contenu derrière, fermeture avec Échap, retour du focus et mise à jour du lien de commande après changement de restaurant ; réussi pour les panneaux de commande et produit.
+- `npm run build` final : réussi. Vite signale un bundle de contenu de 797 kB (94 kB gzip), à fractionner si nécessaire lors du travail de performance avant production.
+- Le serveur de développement est relancé et répond sur http://127.0.0.1:4322/.
+- Changements conservés et commités localement sur la branche de travail ; aucun push ou déploiement à cette étape.

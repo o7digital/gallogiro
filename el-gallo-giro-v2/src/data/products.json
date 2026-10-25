@@ -1,0 +1,5240 @@
+[
+  {
+    "id": "4-torta-box",
+    "name": "4 torta box",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-4-torta-box_8dc6a0aa-9433-45aa-8474-5549d0341944",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/4qo00ojoeNfTYuezRoRXbKEeTFnNio2e8rSBAPpvdOA/ext%3Awebp/quality%3A85/c%3A750%3A450%3Ace%3A0%3A0/plain/s3%3A//toast-sites-resources-prod/restaurantImages/5b4e3182-48d7-47b1-9c28-4e89218651d3/4tortaboxpornchai1.jpg",
+    "image": "/assets/menu/4-torta-box.webp",
+    "imagePageSource": "https://gallogiro.com/",
+    "imageRestaurantId": null
+  },
+  {
+    "id": "cubana-torta",
+    "name": "Cubana Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-cubana-torta_9d3a0812-5f59-42f9-a189-637ced37dc6f",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Cubana Torta Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Queso de Puerco (Head Cheese)",
+            "price": null,
+            "nameEs": "Queso de puerco"
+          },
+          {
+            "name": "Pierna",
+            "price": null,
+            "nameEs": "Pierna"
+          },
+          {
+            "name": "Milanesa",
+            "price": null,
+            "nameEs": "Milanesa"
+          },
+          {
+            "name": "Jamon",
+            "price": null,
+            "nameEs": "Jamon"
+          },
+          {
+            "name": "Avocado (Fresh Sliced)",
+            "price": null,
+            "nameEs": "Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Jalapenos",
+            "price": null,
+            "nameEs": "Jalapenos"
+          },
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Onions (Spicy, Marinated)",
+            "price": null,
+            "nameEs": "Cebolla picante marinada"
+          },
+          {
+            "name": "Mayo",
+            "price": null,
+            "nameEs": "Mayonesa"
+          },
+          {
+            "name": "Panela Cheese",
+            "price": null,
+            "nameEs": "Queso panela"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Telera",
+            "price": null,
+            "nameEs": "Telera"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced)",
+            "price": 2.25,
+            "nameEs": "Extra Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Extra Queso Panela Slice",
+            "price": 2.5,
+            "nameEs": "Extra Rebanada de queso panela"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/0XWQl5d6ZkKyNKOJOxDL26QwoV83UedEYIM0eW1XUyM/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/8/item-1800000000047281548_1782503863.jpg",
+    "image": "/assets/menu/cubana-torta.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-cubana-torta_9d3a0812-5f59-42f9-a189-637ced37dc6f",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "asada-torta",
+    "name": "Asada Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-asada-torta_810fcfc7-0794-40fd-b9b5-e39ba17e0258",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Torta Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Avocado (Fresh Sliced)",
+            "price": null,
+            "nameEs": "Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Jalapenos",
+            "price": null,
+            "nameEs": "Jalapenos"
+          },
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Onions (Spicy, Marinated)",
+            "price": null,
+            "nameEs": "Cebolla picante marinada"
+          },
+          {
+            "name": "Mayo",
+            "price": null,
+            "nameEs": "Mayonesa"
+          },
+          {
+            "name": "Panela Cheese",
+            "price": null,
+            "nameEs": "Queso panela"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Telera (Homemade)",
+            "price": null,
+            "nameEs": "Telera hecha en casa"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced)",
+            "price": 2.25,
+            "nameEs": "Extra Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Extra Queso Panela Slice",
+            "price": 2.5,
+            "nameEs": "Extra Rebanada de queso panela"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/iHjuI9qMliKFWpDlGXx-oqaGOeFP2pKwZqNLqkViOwk/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/0/item-1800000000047281800_1781647394.jpg",
+    "image": "/assets/menu/asada-torta.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-asada-torta_810fcfc7-0794-40fd-b9b5-e39ba17e0258",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "milanesa-torta",
+    "name": "Milanesa Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-milanesa-torta_6a524fe3-01b4-4138-be2b-9306097db330",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Torta Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Avocado (Fresh Sliced)",
+            "price": null,
+            "nameEs": "Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Jalapenos",
+            "price": null,
+            "nameEs": "Jalapenos"
+          },
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Onions (Spicy, Marinated)",
+            "price": null,
+            "nameEs": "Cebolla picante marinada"
+          },
+          {
+            "name": "Mayo",
+            "price": null,
+            "nameEs": "Mayonesa"
+          },
+          {
+            "name": "Panela Cheese",
+            "price": null,
+            "nameEs": "Queso panela"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Telera (Homemade)",
+            "price": null,
+            "nameEs": "Telera hecha en casa"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced)",
+            "price": 2.25,
+            "nameEs": "Extra Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Extra Queso Panela Slice",
+            "price": 2.5,
+            "nameEs": "Extra Rebanada de queso panela"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/zqoQlAtajbDvEIMiiJaj8FMx_wheR3A80FI2g20gluw/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/2/item-1800000000047281802_1782196392.jpg",
+    "image": "/assets/menu/milanesa-torta.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-milanesa-torta_6a524fe3-01b4-4138-be2b-9306097db330",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "carnitas-torta",
+    "name": "Carnitas Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-carnitas-torta_0eead48c-9107-4dd4-9c1d-c7bb2ded1702",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Torta Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Avocado (Fresh Sliced)",
+            "price": null,
+            "nameEs": "Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Jalapenos",
+            "price": null,
+            "nameEs": "Jalapenos"
+          },
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Onions (Spicy, Marinated)",
+            "price": null,
+            "nameEs": "Cebolla picante marinada"
+          },
+          {
+            "name": "Mayo",
+            "price": null,
+            "nameEs": "Mayonesa"
+          },
+          {
+            "name": "Panela Cheese",
+            "price": null,
+            "nameEs": "Queso panela"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Telera (Homemade)",
+            "price": null,
+            "nameEs": "Telera hecha en casa"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced)",
+            "price": 2.25,
+            "nameEs": "Extra Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Extra Queso Panela Slice",
+            "price": 2.5,
+            "nameEs": "Extra Rebanada de queso panela"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/0ktww3QMelPP43mS8o5O-hJSCk5EHeXxkoSoapGjVVE/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/4/item-1800000000047281804_1782196739.jpg",
+    "image": "/assets/menu/carnitas-torta.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-carnitas-torta_0eead48c-9107-4dd4-9c1d-c7bb2ded1702",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "jamon-queso-panela-torta",
+    "name": "Jamon & Queso Panela Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-jamon-queso-panela-torta_6a1a798d-c6c4-42da-b4a4-31051a1c7396",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Torta Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Avocado (Fresh Sliced)",
+            "price": null,
+            "nameEs": "Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Jalapenos",
+            "price": null,
+            "nameEs": "Jalapenos"
+          },
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Onions (Spicy, Marinated)",
+            "price": null,
+            "nameEs": "Cebolla picante marinada"
+          },
+          {
+            "name": "Mayo",
+            "price": null,
+            "nameEs": "Mayonesa"
+          },
+          {
+            "name": "Panela Cheese",
+            "price": null,
+            "nameEs": "Queso panela"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Telera (Homemade)",
+            "price": null,
+            "nameEs": "Telera hecha en casa"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced)",
+            "price": 2.25,
+            "nameEs": "Extra Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Extra Queso Panela Slice",
+            "price": 2.5,
+            "nameEs": "Extra Rebanada de queso panela"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/OoU2b20z4pHYNHvfk82DrREiVGpMkDnaOL1nV47DAt4/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/8/item-1800000000047281808_1782372174.jpg",
+    "image": "/assets/menu/jamon-queso-panela-torta.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-jamon-queso-panela-torta_6a1a798d-c6c4-42da-b4a4-31051a1c7396",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "pollo-torta",
+    "name": "Pollo Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-pollo-torta_64b7d8a8-2f7c-4f00-b2b9-b23f3171faf2",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Torta Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Avocado (Fresh Sliced)",
+            "price": null,
+            "nameEs": "Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Jalapenos",
+            "price": null,
+            "nameEs": "Jalapenos"
+          },
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Onions (Spicy, Marinated)",
+            "price": null,
+            "nameEs": "Cebolla picante marinada"
+          },
+          {
+            "name": "Mayo",
+            "price": null,
+            "nameEs": "Mayonesa"
+          },
+          {
+            "name": "Panela Cheese",
+            "price": null,
+            "nameEs": "Queso panela"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Telera (Homemade)",
+            "price": null,
+            "nameEs": "Telera hecha en casa"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced)",
+            "price": 2.25,
+            "nameEs": "Extra Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Extra Queso Panela Slice",
+            "price": 2.5,
+            "nameEs": "Extra Rebanada de queso panela"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/9ct7qZZum5W6nnqRSDHnYz4ke0Cem5fTgPKIb2pKkhM/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/0/item-1800000000047281810_1782197273.jpg",
+    "image": "/assets/menu/pollo-torta.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-pollo-torta_64b7d8a8-2f7c-4f00-b2b9-b23f3171faf2",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "pierna-adobada-torta",
+    "name": "Pierna Adobada Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-pierna-adobada-torta_169d2888-8ebb-4913-8695-99e57f81139f",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Torta Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Avocado (Fresh Sliced)",
+            "price": null,
+            "nameEs": "Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Jalapenos",
+            "price": null,
+            "nameEs": "Jalapenos"
+          },
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Onions (Spicy, Marinated)",
+            "price": null,
+            "nameEs": "Cebolla picante marinada"
+          },
+          {
+            "name": "Mayo",
+            "price": null,
+            "nameEs": "Mayonesa"
+          },
+          {
+            "name": "Panela Cheese",
+            "price": null,
+            "nameEs": "Queso panela"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Telera (Homemade)",
+            "price": null,
+            "nameEs": "Telera hecha en casa"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced)",
+            "price": 2.25,
+            "nameEs": "Extra Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Extra Queso Panela Slice",
+            "price": 2.5,
+            "nameEs": "Extra Rebanada de queso panela"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/oRo4SHccE33ziQXt0Z0sWOfIKOd34hCK-o1O4W4lZcU/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/2/item-1800000000047281812_1782509225.jpg",
+    "image": "/assets/menu/pierna-adobada-torta.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-pierna-adobada-torta_169d2888-8ebb-4913-8695-99e57f81139f",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "pastor-torta",
+    "name": "Pastor Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-pastor-torta_2ec39177-a42d-4c28-a93e-3ac193dda529",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Torta Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Avocado (Fresh Sliced)",
+            "price": null,
+            "nameEs": "Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Jalapenos",
+            "price": null,
+            "nameEs": "Jalapenos"
+          },
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Onions (Spicy, Marinated)",
+            "price": null,
+            "nameEs": "Cebolla picante marinada"
+          },
+          {
+            "name": "Mayo",
+            "price": null,
+            "nameEs": "Mayonesa"
+          },
+          {
+            "name": "Panela Cheese",
+            "price": null,
+            "nameEs": "Queso panela"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Telera (Homemade)",
+            "price": null,
+            "nameEs": "Telera hecha en casa"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced)",
+            "price": 2.25,
+            "nameEs": "Extra Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Extra Queso Panela Slice",
+            "price": 2.5,
+            "nameEs": "Extra Rebanada de queso panela"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/g1-TRnhl92qr9C3woSSNixI9H3cFZ9jsXTVzrQZfemg/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/4/item-1800000000047281814_1782372146.jpg",
+    "image": "/assets/menu/pastor-torta.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eb615061-0a5c-4e76-946d-78500c999757/item-pastor-torta_2ec39177-a42d-4c28-a93e-3ac193dda529",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "double-cubana-torta",
+    "name": "Double Cubana Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-cubana-torta_51761726-936e-4c1e-a6d8-a58218d70254",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-asada-torta",
+    "name": "Double Asada Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-asada-torta_0a7db4d1-0887-4540-920f-ce8c5d484cf2",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-milanesa-torta",
+    "name": "Double Milanesa Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-milanesa-torta_2bcf488e-4b68-415d-ad63-32d92cf519fb",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-carnitas-torta",
+    "name": "Double Carnitas Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-carnitas-torta_08adae83-657d-4963-be36-514d264fbf7e",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-jamon-queso-panela-torta",
+    "name": "Double Jamon & Queso Panela Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-jamon-queso-panela-torta_d4b7e63d-a5e6-4abe-b951-b6f8d4e99b4f",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-pollo-torta",
+    "name": "double pollo torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-pollo-torta_900478db-56ed-457f-995e-1eede6c0e894",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-pierna-adobada-torta",
+    "name": "Double Pierna Adobada Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-pierna-adobada-torta_a918aedc-dce8-4303-8012-9d4185a7e859",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-pastor-torta",
+    "name": "double pastor torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-pastor-torta_e251be54-6651-4002-b794-4422ce817d3d",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-super-gallo-torta",
+    "name": "Double Super Gallo Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-super-gallo-torta_dd0ae191-3c33-462a-a583-df65689bd6f1",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-aguacate-torta",
+    "name": "Double Aguacate Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-aguacate-torta_74f092e4-4d09-4aa3-b6f7-c846fca8b44b",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-queso-panela-torta",
+    "name": "Double Queso Panela Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-queso-panela-torta_a3172f3f-bf2e-4f5a-a561-eae526a86fb9",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-chorizo-torta",
+    "name": "double chorizo torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-chorizo-torta_ac8dc4a7-6739-4f69-a564-45bfc5255a74",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-fritanga-torta",
+    "name": "double fritanga torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-fritanga-torta_a592775d-bc75-4952-a88b-4ce3a0869397",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-buche-torta",
+    "name": "double buche torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-buche-torta_c5dde20a-a52a-40a5-a15f-254a86a9c57d",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-queso-de-puerco-torta",
+    "name": "double queso de puerco torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-queso-de-puerco-torta_5450e465-94b4-4a7c-96c8-d3e77e92a6c4",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "double-trompa-torta",
+    "name": "double trompa torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2b1ddf91-1643-4d56-80b9-89077de66b2e/item-double-trompa-torta_1460dc78-a169-4475-8d4c-1e9c8ae8bd0d",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "asada-taco-grande",
+    "name": "asada taco grande",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-asada-taco-grande_b1e102c7-a07f-48d4-a341-98988b9ef7bd",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "carnitas-taco-grande",
+    "name": "Carnitas Taco Grande",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-carnitas-taco-grande_de2a93e4-8fba-4176-9f53-c497dfbb17e3",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Grande Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 1.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Sliced)",
+            "price": 1.5,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 1.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Grande Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.5,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.5,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.5,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.5,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.5,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.5,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.5,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.5,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/8-r1O7e72Nf8hAWlX-bA_TbCh3B7YXgWkcwhz8otba4/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/0/item-1800000000047282050_1785358575.jpg",
+    "image": "/assets/menu/carnitas-taco-grande.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-carnitas-taco-grande_de2a93e4-8fba-4176-9f53-c497dfbb17e3",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "pastor-taco-grande",
+    "name": "pastor taco grande",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-pastor-taco-grande_9dfe8e22-0b4c-48e2-ae6a-f947f1feeb77",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "pollo-taco-grande",
+    "name": "Pollo Taco Grande",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-pollo-taco-grande_849f5a4a-13ec-4c1e-89cc-825bf0d655eb",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Grande Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 1.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Sliced)",
+            "price": 1.5,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 1.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Grande Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.5,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.5,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.5,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.5,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.5,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.5,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.5,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.5,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/Bdp9nZN2UQY_Lo_JVmM9hejJlC9SO1XvUUjcn6eYUnA/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/8/item-1800000000047282058_1785358660.jpg",
+    "image": "/assets/menu/pollo-taco-grande.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-pollo-taco-grande_849f5a4a-13ec-4c1e-89cc-825bf0d655eb",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "chorizo-taco-grande",
+    "name": "Chorizo Taco Grande",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-chorizo-taco-grande_db0bbbf9-a144-4e7e-ae50-5715eb6c716b",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Grande Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 1.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Sliced)",
+            "price": 1.5,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 1.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Grande Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.5,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.5,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.5,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.5,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.5,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.5,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.5,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.5,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/eH06Oix98sSvQup9us3StaHBemI8YV9X4ZgD9tOAp5E/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/2/item-1800000000047282062_1785358695.jpg",
+    "image": "/assets/menu/chorizo-taco-grande.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-chorizo-taco-grande_db0bbbf9-a144-4e7e-ae50-5715eb6c716b",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "fritanga-taco-grande",
+    "name": "fritanga taco grande",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-fritanga-taco-grande_8853c175-409c-43e0-8f46-5935dc318733",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "trompa-taco-grande",
+    "name": "Trompa Taco Grande",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-trompa-taco-grande_0abbd138-658d-44c5-bc56-9529cd0f594b",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Grande Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 1.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Sliced)",
+            "price": 1.5,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 1.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Grande Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.5,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.5,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.5,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.5,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.5,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.5,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.5,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.5,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/2F2Ey2bqIY04cimrNSPQzJr5jqWwzkXISDYtUrGG9Bg/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/6/item-1800000000047282056_1787002469.jpg",
+    "image": "/assets/menu/trompa-taco-grande.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-trompa-taco-grande_0abbd138-658d-44c5-bc56-9529cd0f594b",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "buche-taco-grande",
+    "name": "Buche Taco Grande",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-buche-taco-grande_9b229376-aca7-4243-8002-32d5d965992b",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Grande Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 1.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Sliced)",
+            "price": 1.5,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 1.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Grande Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.5,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.5,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.5,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.5,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.5,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.5,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.5,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.5,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/ntlYaKV4dlH3dPdvHGCeo-A3g1Qiyih4DP0wKOFrGXs/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/0/item-1800000000047282060_1787002421.jpg",
+    "image": "/assets/menu/buche-taco-grande.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-buche-taco-grande_9b229376-aca7-4243-8002-32d5d965992b",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "bean-cheese-taco-grande",
+    "name": "Bean & Cheese Taco Grande",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-bean-cheese-taco-grande_74e3d07a-03b6-4700-ae08-26de2c7e83bd",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Grande Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 1.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Sliced)",
+            "price": 1.5,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 1.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Grande Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.5,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.5,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.5,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.5,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.5,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.5,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.5,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.5,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/HiV9l_yApNxo9xfGfy3lhmCz4AJuyd_LYHVPRtaAVh8/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/6/item-1800000000047282066_1785358902.jpg",
+    "image": "/assets/menu/bean-cheese-taco-grande.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_500a806c-9fdd-412f-9762-70a3dfb66788/item-bean-cheese-taco-grande_74e3d07a-03b6-4700-ae08-26de2c7e83bd",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "4-tacos-combo",
+    "name": "4 Tacos Combo",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-4-tacos-combo_5e602840-0069-4602-8001-25a54b5e1c89",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "4 Taco Combo",
+        "required": true,
+        "selection": "Select 4",
+        "options": [
+          {
+            "name": "Taco de",
+            "price": null,
+            "nameEs": "Taco de"
+          },
+          {
+            "name": "Taco de",
+            "price": null,
+            "nameEs": "Taco de"
+          },
+          {
+            "name": "Taco de",
+            "price": null,
+            "nameEs": "Taco de"
+          },
+          {
+            "name": "Taco de",
+            "price": null,
+            "nameEs": "Taco de"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Burrito/Taco/Torta Combo Drink Choice",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "Coke",
+            "price": null,
+            "nameEs": "Coke"
+          },
+          {
+            "name": "Diet Coke",
+            "price": null,
+            "nameEs": "Diet Coke"
+          },
+          {
+            "name": "Sprite",
+            "price": null,
+            "nameEs": "Sprite"
+          },
+          {
+            "name": "Fanta",
+            "price": null,
+            "nameEs": "Fanta"
+          },
+          {
+            "name": "Sub Bottle Water",
+            "price": null,
+            "nameEs": "Sustituir por agua embotellada"
+          },
+          {
+            "name": "No Drink",
+            "price": null,
+            "nameEs": "Sin bebida"
+          },
+          {
+            "name": "Cafe de Olla",
+            "price": null,
+            "nameEs": "Cafe de Olla"
+          },
+          {
+            "name": "Agua Horchata",
+            "price": null,
+            "nameEs": "Agua Horchata"
+          },
+          {
+            "name": "Agua Mamey",
+            "price": null,
+            "nameEs": "Agua Mamey"
+          },
+          {
+            "name": "Agua Maracuya",
+            "price": null,
+            "nameEs": "Agua Maracuya"
+          },
+          {
+            "name": "Agua Jamaica Splenda",
+            "price": null,
+            "nameEs": "Agua Jamaica Splenda"
+          },
+          {
+            "name": "Agua Chia con Limon",
+            "price": null,
+            "nameEs": "Agua Chia con Limon"
+          },
+          {
+            "name": "Agua Pepino con Piña",
+            "price": null,
+            "nameEs": "Agua Pepino con Piña"
+          },
+          {
+            "name": "Agua Mango Dragon Fruit",
+            "price": null,
+            "nameEs": "Agua Mango Dragon Fruit"
+          },
+          {
+            "name": "Agua Piña",
+            "price": null,
+            "nameEs": "Agua Piña"
+          },
+          {
+            "name": "Agua Mango",
+            "price": null,
+            "nameEs": "Agua Mango"
+          },
+          {
+            "name": "Agua Espinaca",
+            "price": null,
+            "nameEs": "Agua Espinaca"
+          },
+          {
+            "name": "Agua Sandia",
+            "price": null,
+            "nameEs": "Agua Sandia"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "4 Tacos Regular Sides",
+        "required": true,
+        "selection": "Select at least 1",
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans) and Rice",
+            "price": null,
+            "nameEs": "Frijoles refritos y Arroz"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "No Cheese on Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Sin queso en los frijoles refritos"
+          },
+          {
+            "name": "Chips",
+            "price": null,
+            "nameEs": "Totopos"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          }
+        ],
+        "nameEs": "Guarniciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/Xn1_ETe60Kxt1ky-ZBUGmFqyArz_xfaE7M33gAE_bEg/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/5/item-1800000000047282505_1782428212.jpg",
+    "image": "/assets/menu/4-tacos-combo.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-4-tacos-combo_5e602840-0069-4602-8001-25a54b5e1c89",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "asada-taco-regular",
+    "name": "Asada Taco Regular",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-asada-taco-regular_ebd0a606-3167-4911-aee3-22d29fae7b7b",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 0.5,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado",
+            "price": 0.75,
+            "nameEs": "Agregar Aguacate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 0.5,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 1.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 1.25,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 1.25,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 1.25,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 1.25,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 1.25,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 1.25,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 1.25,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 1.25,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/RF7MYwlNob4iSk-UAWOFXFtBfgmQRbiMjBTl8AGSCzs/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345148000000000000/menu/items/7/item-1800000000047282507_1785974030.jpg",
+    "image": "/assets/menu/asada-taco-regular.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-asada-taco-regular_ebd0a606-3167-4911-aee3-22d29fae7b7b",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "carnitas-taco-regular",
+    "name": "Carnitas Taco Regular",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-carnitas-taco-regular_48079aa1-c1f9-4542-bff5-38fe6ea68a5f",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 0.5,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado",
+            "price": 0.75,
+            "nameEs": "Agregar Aguacate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 0.5,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 1.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 1.25,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 1.25,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 1.25,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 1.25,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 1.25,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 1.25,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 1.25,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 1.25,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/Cak-Mzt1JNUuBn9wQhsOytyJkxmjqMGMB3cIzpxOjYQ/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345148000000000000/menu/items/9/item-1800000000047282509_1785974547.jpg",
+    "image": "/assets/menu/carnitas-taco-regular.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-carnitas-taco-regular_48079aa1-c1f9-4542-bff5-38fe6ea68a5f",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "pollo-taco-regular",
+    "name": "Pollo Taco Regular",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-pollo-taco-regular_c23862ed-d697-45dd-89f8-aafd5554beb2",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 0.5,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado",
+            "price": 0.75,
+            "nameEs": "Agregar Aguacate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 0.5,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 1.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 1.25,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 1.25,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 1.25,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 1.25,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 1.25,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 1.25,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 1.25,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 1.25,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/BrLlqoPwRjFp0q9fVXbQzXLv2AU0vbkaaBHbePmWBtc/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345148000000000000/menu/items/3/item-1800000000047282513_1785974575.jpg",
+    "image": "/assets/menu/pollo-taco-regular.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-pollo-taco-regular_c23862ed-d697-45dd-89f8-aafd5554beb2",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "chorizo-taco-regular",
+    "name": "chorizo taco regular",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-chorizo-taco-regular_3a890e0f-25d2-402b-9f0f-4c9ce0d6c314",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "fritanga-taco-regular",
+    "name": "Fritanga Taco Regular",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-fritanga-taco-regular_d3f1c917-0c52-46d3-b681-7e28c4a176ff",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 0.5,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado",
+            "price": 0.75,
+            "nameEs": "Agregar Aguacate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 0.5,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 1.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 1.25,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 1.25,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 1.25,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 1.25,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 1.25,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 1.25,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 1.25,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 1.25,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/305Bh0i5x_DCy19yLejWXAqMPDxwaAQeBgu7U-bQIlk/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345148000000000000/menu/items/7/item-1800000000047282517_1785974605.jpg",
+    "image": "/assets/menu/fritanga-taco-regular.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-fritanga-taco-regular_d3f1c917-0c52-46d3-b681-7e28c4a176ff",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "buche-taco-regular",
+    "name": "Buche Taco Regular",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-buche-taco-regular_aea7c292-5c07-4edd-a815-af986bb92115",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 0.5,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado",
+            "price": 0.75,
+            "nameEs": "Agregar Aguacate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 0.5,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 1.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 1.25,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 1.25,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 1.25,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 1.25,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 1.25,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 1.25,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 1.25,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 1.25,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/4WOs8bDvvbf8xmwyHjQ48bl4BOMCo2ArdPqW8-g1WMg/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345148000000000000/menu/items/5/item-1800000000047282515_1785974636.jpg",
+    "image": "/assets/menu/buche-taco-regular.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-buche-taco-regular_aea7c292-5c07-4edd-a815-af986bb92115",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "trompa-taco-regular",
+    "name": "Trompa Taco Regular",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-trompa-taco-regular_b7987a0e-1cbb-4050-9c76-3896ac646ab7",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 0.5,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado",
+            "price": 0.75,
+            "nameEs": "Agregar Aguacate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 0.5,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 1.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 1.25,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 1.25,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 1.25,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 1.25,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 1.25,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 1.25,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 1.25,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 1.25,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/eUvApsL08ruCm_fzeA_dYIuEA8hFj8U7Rree9EqejV8/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345148000000000000/menu/items/9/item-1800000000047282519_1785974668.jpg",
+    "image": "/assets/menu/trompa-taco-regular.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-trompa-taco-regular_b7987a0e-1cbb-4050-9c76-3896ac646ab7",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "pastor-taco-regular",
+    "name": "Pastor Taco Regular",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-pastor-taco-regular_386538b4-e1d0-4997-881f-bbd4d6dd6e83",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 0.5,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado",
+            "price": 0.75,
+            "nameEs": "Agregar Aguacate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 0.5,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 1.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 1.25,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 1.25,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 1.25,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 1.25,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 1.25,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 1.25,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 1.25,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 1.25,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/yiMeFsQTyrj5UDjPKoDuyu0deuKOCzXeshg8r9I1MqQ/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345148000000000000/menu/items/6/item-1800000000124415576_1785974727.jpg",
+    "image": "/assets/menu/pastor-taco-regular.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-pastor-taco-regular_386538b4-e1d0-4997-881f-bbd4d6dd6e83",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "bean-cheese-taco-regular",
+    "name": "Bean & Cheese Taco Regular",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-bean-cheese-taco-regular_8c2ea328-d744-4cf3-a6ec-57f0b691cfe9",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Taco Toppings Modifier",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Add Limes",
+            "price": null,
+            "nameEs": "Agregar Limones"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 0.5,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado",
+            "price": 0.75,
+            "nameEs": "Agregar Aguacate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 0.5,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 1.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Extra Taco Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 1.5,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 1.25,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 1.25,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 1.25,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 1.25,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 1.25,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 1.25,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 1.25,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 1.25,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/Ey-S2wZSeBsDLK36hXPhQq88cP5Jc9XM6jxqOIzbCnI/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345148000000000000/menu/items/5/item-1800000000047282525_1785974765.jpg",
+    "image": "/assets/menu/bean-cheese-taco-regular.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_27c030a9-7b6f-4633-ae8c-5d74e6192479/item-bean-cheese-taco-regular_8c2ea328-d744-4cf3-a6ec-57f0b691cfe9",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "4-burrito-box",
+    "name": "4 Burrito Box",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-4-burrito-box_5719fe8c-6a0b-498d-a3c7-d3055f28b887",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "4 Burrito Box",
+        "required": true,
+        "selection": "Select 4",
+        "options": [
+          {
+            "name": "Burrito 1",
+            "price": null,
+            "nameEs": "Burrito 1"
+          },
+          {
+            "name": "Burrito 2",
+            "price": null,
+            "nameEs": "Burrito 2"
+          },
+          {
+            "name": "Burrito 3",
+            "price": null,
+            "nameEs": "Burrito 3"
+          },
+          {
+            "name": "Burrito 4",
+            "price": null,
+            "nameEs": "Burrito 4"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "4 Burrito Box Sides (Burrito Modifier)",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Chips",
+            "price": null,
+            "nameEs": "Totopos"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Add 8oz Guacamole Side",
+            "price": 8.99,
+            "nameEs": "Agregar 8oz Guacamole Side"
+          }
+        ],
+        "nameEs": "Guarniciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/ZahX7rpqH8bHlC9zppy-FCX6NcKJUG8g9qhEJFpTHGI/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/5/item-1800000000047282545_1782018827.jpg",
+    "image": "/assets/menu/4-burrito-box.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-4-burrito-box_5719fe8c-6a0b-498d-a3c7-d3055f28b887",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "asada-burrito",
+    "name": "Asada Burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-asada-burrito_7de2d8c4-812f-4af4-bdfe-78662afec459",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Burrito Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Extra Frijoles (Refried Beans)",
+            "price": 1.0,
+            "nameEs": "Extra Frijoles refritos"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 2.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Slices)",
+            "price": 2.25,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 2.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Burrito Extra Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.99,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.99,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.99,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.99,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.99,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.99,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.99,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.99,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.99,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/RDXRSG3ItVDa5McnOgXH5SEBq5XnmlFnskJY1_M1zGQ/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/7/item-1800000000047282547_1782018366.jpg",
+    "image": "/assets/menu/asada-burrito.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-asada-burrito_7de2d8c4-812f-4af4-bdfe-78662afec459",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "carnitas-burrito",
+    "name": "Carnitas Burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-carnitas-burrito_cd6ff7cd-98ae-4c48-a669-f2da535b9fcb",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Burrito Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Extra Frijoles (Refried Beans)",
+            "price": 1.0,
+            "nameEs": "Extra Frijoles refritos"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 2.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Slices)",
+            "price": 2.25,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 2.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Burrito Extra Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.99,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.99,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.99,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.99,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.99,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.99,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.99,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.99,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.99,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/2BQ-YfoSHQH7gGDcTkzLqwJp08PDhs5StDHIFsaLjZ4/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/9/item-1800000000047282549_1782019800.jpg",
+    "image": "/assets/menu/carnitas-burrito.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-carnitas-burrito_cd6ff7cd-98ae-4c48-a669-f2da535b9fcb",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "pastor-burrito",
+    "name": "pastor burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-pastor-burrito_9e10ec19-b7a1-46f7-85bd-867105b5316c",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "pollo-burrito",
+    "name": "pollo burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-pollo-burrito_a7c3aeac-7222-4dff-95d2-f3785c88173f",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "bean-cheese-burrito",
+    "name": "Bean & Cheese Burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-bean-cheese-burrito_7910b4dc-c8f9-41d4-b6ea-cffa47add6cd",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Burrito Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Extra Frijoles (Refried Beans)",
+            "price": 1.0,
+            "nameEs": "Extra Frijoles refritos"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 2.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Slices)",
+            "price": 2.25,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 2.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/zN3f1tflvom3Urq5kYuaFH8U5FipuVbCMEMwV0bUSh4/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/5/item-1800000000047282655_1782020347.jpg",
+    "image": "/assets/menu/bean-cheese-burrito.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-bean-cheese-burrito_7910b4dc-c8f9-41d4-b6ea-cffa47add6cd",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "fritanga-burrito",
+    "name": "Fritanga Burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-fritanga-burrito_badd8951-3a84-4edf-8c02-7ce5e2dbe1e7",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Burrito Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Extra Frijoles (Refried Beans)",
+            "price": 1.0,
+            "nameEs": "Extra Frijoles refritos"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 2.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Slices)",
+            "price": 2.25,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 2.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Burrito Extra Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.99,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.99,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.99,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.99,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.99,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.99,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.99,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.99,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.99,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/6ehFJKWuNTrQzkb6p9c0scXexB9Ml8ykZY7pold-dYg/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/7/item-1800000000047282657_1785360993.jpg",
+    "image": "/assets/menu/fritanga-burrito.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-fritanga-burrito_badd8951-3a84-4edf-8c02-7ce5e2dbe1e7",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "buche-burrito",
+    "name": "Buche Burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-buche-burrito_cc800846-7864-4fac-9b0b-277b9b97f736",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Burrito Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Extra Frijoles (Refried Beans)",
+            "price": 1.0,
+            "nameEs": "Extra Frijoles refritos"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 2.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Slices)",
+            "price": 2.25,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 2.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Burrito Extra Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.99,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.99,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.99,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.99,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.99,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.99,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.99,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.99,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.99,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/olTEf9GIn1YtPSQvWY6GjQEgkUXeiXrLtfMZqT8SauI/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/9/item-1800000000047282659_1785361100.jpg",
+    "image": "/assets/menu/buche-burrito.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-buche-burrito_cc800846-7864-4fac-9b0b-277b9b97f736",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "trompa-burrito",
+    "name": "Trompa Burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-trompa-burrito_e56e6c81-d9d4-4773-ae04-deeeb4003d2b",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Burrito Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Extra Frijoles (Refried Beans)",
+            "price": 1.0,
+            "nameEs": "Extra Frijoles refritos"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 2.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Slices)",
+            "price": 2.25,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 2.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Burrito Extra Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.99,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.99,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.99,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.99,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.99,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.99,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.99,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.99,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.99,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/XfDptlmovhoWEc4qNuBKbUcA24D4_FKdS2FvZEv6uKk/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/1/item-1800000000047282661_1785361164.jpg",
+    "image": "/assets/menu/trompa-burrito.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-trompa-burrito_e56e6c81-d9d4-4773-ae04-deeeb4003d2b",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "chorizo-burrito",
+    "name": "Chorizo Burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-chorizo-burrito_d060675e-5541-4f84-86e6-eac791fb36bc",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Burrito Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Extra Frijoles (Refried Beans)",
+            "price": 1.0,
+            "nameEs": "Extra Frijoles refritos"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 2.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Slices)",
+            "price": 2.25,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 2.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Burrito Extra Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Asada",
+            "price": 3.99,
+            "nameEs": "Extra Asada"
+          },
+          {
+            "name": "Extra Carnitas",
+            "price": 2.99,
+            "nameEs": "Extra Carnitas"
+          },
+          {
+            "name": "Extra Pollo",
+            "price": 2.99,
+            "nameEs": "Extra Pollo"
+          },
+          {
+            "name": "Extra Buche",
+            "price": 2.99,
+            "nameEs": "Extra Buche"
+          },
+          {
+            "name": "Extra Fritanga",
+            "price": 2.99,
+            "nameEs": "Extra Fritanga"
+          },
+          {
+            "name": "Extra Trompa",
+            "price": 2.99,
+            "nameEs": "Extra Trompa"
+          },
+          {
+            "name": "Extra Pastor",
+            "price": 2.99,
+            "nameEs": "Extra Pastor"
+          },
+          {
+            "name": "Extra Chorizo",
+            "price": 2.99,
+            "nameEs": "Extra Chorizo"
+          },
+          {
+            "name": "Extra Pierna",
+            "price": 2.99,
+            "nameEs": "Extra Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/P51hgDMbjo7aagbYFdxG3qjnzwEPjX4oikjbWVW2aFc/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/7/item-1800000000047282667_1785361269.jpg",
+    "image": "/assets/menu/chorizo-burrito.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_eba0d8cd-f7b8-4dc9-b36d-922e4ebbdfa5/item-chorizo-burrito_d060675e-5541-4f84-86e6-eac791fb36bc",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "1lb-family-pack",
+    "name": "1Lb Family Pack",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_9e20ba96-dd52-4385-a835-1cbba5d111db/item-1lb-family-pack_1ab99ac4-4632-4042-9a6a-c6730bd0a5cb",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "1LB Family Pack Protein Choice",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "Carnitas (1lbp)",
+            "price": 26.89,
+            "nameEs": "Carnitas (1lbp)"
+          },
+          {
+            "name": "Asada (1lbp)",
+            "price": 32.85,
+            "nameEs": "Asada (1lbp)"
+          },
+          {
+            "name": "Pollo (1lbp)",
+            "price": 26.89,
+            "nameEs": "Pollo (1lbp)"
+          },
+          {
+            "name": "Buche (1lbp)",
+            "price": 31.89,
+            "nameEs": "Buche (1lbp)"
+          },
+          {
+            "name": "Fritanga (1lbp)",
+            "price": 26.89,
+            "nameEs": "Fritanga (1lbp)"
+          },
+          {
+            "name": "Trompa (1lbp)",
+            "price": 26.89,
+            "nameEs": "Trompa (1lbp)"
+          },
+          {
+            "name": "Pastor (1lbp)",
+            "price": 26.89,
+            "nameEs": "Pastor (1lbp)"
+          },
+          {
+            "name": "Pierna (1lbp)",
+            "price": 26.89,
+            "nameEs": "Pierna (1lbp)"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      },
+      {
+        "name": "1Lb Family Pack Sides",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Limes",
+            "price": null,
+            "nameEs": "Limones"
+          },
+          {
+            "name": "Chiles Asados",
+            "price": null,
+            "nameEs": "Chiles Asados"
+          },
+          {
+            "name": "Tortillas",
+            "price": null,
+            "nameEs": "Tortillas"
+          },
+          {
+            "name": "No Cheese on Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Sin queso en los frijoles refritos"
+          },
+          {
+            "name": "Chips",
+            "price": null,
+            "nameEs": "Totopos"
+          },
+          {
+            "name": "Add Guacamole 8oz",
+            "price": 8.99,
+            "nameEs": "Agregar Guacamole 8oz"
+          }
+        ],
+        "nameEs": "Guarniciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/P_Au1OT-kbX34B5ajt1jRWegABSDw7WuaUddDpo59MA/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/1/item-1800000000073476551_1782370106.jpg",
+    "image": "/assets/menu/1lb-family-pack.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_9e20ba96-dd52-4385-a835-1cbba5d111db/item-1lb-family-pack_1ab99ac4-4632-4042-9a6a-c6730bd0a5cb",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "2lb-family-pack",
+    "name": "2Lb Family Pack",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_9e20ba96-dd52-4385-a835-1cbba5d111db/item-2lb-family-pack_6983593f-749f-4d64-a43b-f43d1b6b3144",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "2LB Family Pack Meat Choices",
+        "required": true,
+        "selection": "Select 2",
+        "options": [
+          {
+            "name": "Carnitas (2lbp)",
+            "price": null,
+            "nameEs": "Carnitas (2lbp)"
+          },
+          {
+            "name": "Asada (2lbp)",
+            "price": 11.99,
+            "nameEs": "Asada (2lbp)"
+          },
+          {
+            "name": "Pollo (2lbp)",
+            "price": null,
+            "nameEs": "Pollo (2lbp)"
+          },
+          {
+            "name": "Buche (2lbp)",
+            "price": null,
+            "nameEs": "Buche (2lbp)"
+          },
+          {
+            "name": "Fritanga (2lbp)",
+            "price": null,
+            "nameEs": "Fritanga (2lbp)"
+          },
+          {
+            "name": "Trompa (2lbp)",
+            "price": null,
+            "nameEs": "Trompa (2lbp)"
+          },
+          {
+            "name": "Pastor (2lbp)",
+            "price": null,
+            "nameEs": "Pastor (2lbp)"
+          },
+          {
+            "name": "Chorizo (2lbp)",
+            "price": null,
+            "nameEs": "Chorizo (2lbp)"
+          },
+          {
+            "name": "Pierna (2lbp)",
+            "price": null,
+            "nameEs": "Pierna (2lbp)"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      },
+      {
+        "name": "2Lb Family Pack Sides",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Limes",
+            "price": null,
+            "nameEs": "Limones"
+          },
+          {
+            "name": "Chiles Asados",
+            "price": null,
+            "nameEs": "Chiles Asados"
+          },
+          {
+            "name": "Tortillas",
+            "price": null,
+            "nameEs": "Tortillas"
+          },
+          {
+            "name": "No Cheese on Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Sin queso en los frijoles refritos"
+          },
+          {
+            "name": "Chip",
+            "price": null,
+            "nameEs": "Totopo"
+          },
+          {
+            "name": "Add Guacamole 8oz",
+            "price": 8.99,
+            "nameEs": "Agregar Guacamole 8oz"
+          }
+        ],
+        "nameEs": "Guarniciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/SwHiPY6pFoPWhDrefdhojBDrg9py4433KGSZNloYjPs/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/8/item-1800000000047285088_1782230029.jpg",
+    "image": "/assets/menu/2lb-family-pack.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_9e20ba96-dd52-4385-a835-1cbba5d111db/item-2lb-family-pack_6983593f-749f-4d64-a43b-f43d1b6b3144",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "3lb-family-pack",
+    "name": "3Lb Family Pack",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_9e20ba96-dd52-4385-a835-1cbba5d111db/item-3lb-family-pack_a1295383-e254-46d6-9d40-635b426dc64c",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "3Lb Family Pack Meat Choices",
+        "required": true,
+        "selection": "Select 3",
+        "options": [
+          {
+            "name": "Carnitas (3lbp)",
+            "price": null,
+            "nameEs": "Carnitas (3lbp)"
+          },
+          {
+            "name": "Asada (3lbp)",
+            "price": 11.99,
+            "nameEs": "Asada (3lbp)"
+          },
+          {
+            "name": "Pollo (3lbp)",
+            "price": null,
+            "nameEs": "Pollo (3lbp)"
+          },
+          {
+            "name": "Buche (3lbp)",
+            "price": null,
+            "nameEs": "Buche (3lbp)"
+          },
+          {
+            "name": "Fritanga (3lbp)",
+            "price": null,
+            "nameEs": "Fritanga (3lbp)"
+          },
+          {
+            "name": "Trompa (3lbp)",
+            "price": null,
+            "nameEs": "Trompa (3lbp)"
+          },
+          {
+            "name": "Pastor (3lbp)",
+            "price": null,
+            "nameEs": "Pastor (3lbp)"
+          },
+          {
+            "name": "Chorizo (3lbp)",
+            "price": null,
+            "nameEs": "Chorizo (3lbp)"
+          },
+          {
+            "name": "Pierna (3lbp)",
+            "price": null,
+            "nameEs": "Pierna (3lbp)"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      },
+      {
+        "name": "3Lb Family Pack Sides",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Salsa Roja",
+            "price": null,
+            "nameEs": "Salsa Roja"
+          },
+          {
+            "name": "Salsa Verde",
+            "price": null,
+            "nameEs": "Salsa Verde"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Limes",
+            "price": null,
+            "nameEs": "Limones"
+          },
+          {
+            "name": "Chiles Asados",
+            "price": null,
+            "nameEs": "Chiles Asados"
+          },
+          {
+            "name": "Tortillas",
+            "price": null,
+            "nameEs": "Tortillas"
+          },
+          {
+            "name": "No Cheese on Beans",
+            "price": null,
+            "nameEs": "Sin queso en los frijoles"
+          },
+          {
+            "name": "Chips",
+            "price": null,
+            "nameEs": "Totopos"
+          },
+          {
+            "name": "Add Guacamole 8oz",
+            "price": 8.99,
+            "nameEs": "Agregar Guacamole 8oz"
+          }
+        ],
+        "nameEs": "Guarniciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/vCwuDS-T5vbar9LJkry5ullyntndL4V72nLVI9wh0W8/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/2/item-1800000000047285092_1782371095.jpg",
+    "image": "/assets/menu/3lb-family-pack.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_9e20ba96-dd52-4385-a835-1cbba5d111db/item-3lb-family-pack_a1295383-e254-46d6-9d40-635b426dc64c",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "5lb-family-pack",
+    "name": "5lb family pack",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_9e20ba96-dd52-4385-a835-1cbba5d111db/item-5lb-family-pack_1cad67b3-ddd2-4813-bfb2-4de2b16cb7a0",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "huevo-con-jamon-platillo",
+    "name": "Huevo Con Jamon Platillo",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2006c198-ed99-4138-af93-d5c1db337508/item-huevo-con-jamon-platillo_d98e1424-96c9-4416-afb8-3226bd726d0c",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Platillo Side Choice",
+        "required": true,
+        "selection": "Select at least 1",
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans) and Rice",
+            "price": null,
+            "nameEs": "Frijoles refritos y Arroz"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "No Side",
+            "price": null,
+            "nameEs": "Sin guarnición"
+          },
+          {
+            "name": "4 Corn Tortillas",
+            "price": null,
+            "nameEs": "4 tortillas de maíz"
+          },
+          {
+            "name": "Sub Chips",
+            "price": null,
+            "nameEs": "Sustituir por totopos"
+          },
+          {
+            "name": "Add Avocado",
+            "price": 2.0,
+            "nameEs": "Agregar Aguacate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Queso Panela Slice (Cheese)",
+            "price": 2.0,
+            "nameEs": "Agregar Rebanada de queso panela"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 2.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Egg Style",
+        "required": false,
+        "selection": "Select up to 1",
+        "options": [
+          {
+            "name": "Over Easy",
+            "price": null,
+            "nameEs": "Estrellados, yema líquida"
+          },
+          {
+            "name": "Over Medium",
+            "price": null,
+            "nameEs": "Estrellados, yema semilíquida"
+          },
+          {
+            "name": "Over Hard",
+            "price": null,
+            "nameEs": "Estrellados, yema cocida"
+          },
+          {
+            "name": "Scrambled",
+            "price": null,
+            "nameEs": "Revueltos"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Huevos Con Jamon Platillo Topping Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Ham",
+            "price": null,
+            "nameEs": "Jamón"
+          },
+          {
+            "name": "Egg",
+            "price": null,
+            "nameEs": "Huevo"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Jalapeños",
+            "price": null,
+            "nameEs": "Jalapeños"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Extra Egg",
+            "price": 2.5,
+            "nameEs": "Extra Huevo"
+          },
+          {
+            "name": "Add Salchicha",
+            "price": 2.5,
+            "nameEs": "Agregar Salchicha"
+          },
+          {
+            "name": "Add Chorizo",
+            "price": 2.5,
+            "nameEs": "Agregar Chorizo"
+          },
+          {
+            "name": "Extra Ham",
+            "price": 2.5,
+            "nameEs": "Extra Jamón"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/IZzrR3roK5hy84q-OtzcqnhFEOkJgwtYuvL2Ph_AAhM/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/8/item-1800000000047284248_1782021634.jpg",
+    "image": "/assets/menu/huevo-con-jamon-platillo.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2006c198-ed99-4138-af93-d5c1db337508/item-huevo-con-jamon-platillo_d98e1424-96c9-4416-afb8-3226bd726d0c",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "ham-egg-burrito",
+    "name": "Ham & Egg Burrito",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2006c198-ed99-4138-af93-d5c1db337508/item-ham-egg-burrito_cce2c209-b18f-4ce1-a3ba-3042e6724162",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Egg Style",
+        "required": false,
+        "selection": "Select up to 1",
+        "options": [
+          {
+            "name": "Over Easy",
+            "price": null,
+            "nameEs": "Estrellados, yema líquida"
+          },
+          {
+            "name": "Over Medium",
+            "price": null,
+            "nameEs": "Estrellados, yema semilíquida"
+          },
+          {
+            "name": "Over Hard",
+            "price": null,
+            "nameEs": "Estrellados, yema cocida"
+          },
+          {
+            "name": "Scrambled",
+            "price": null,
+            "nameEs": "Revueltos"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Ham & Egg Burrito Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Egg",
+            "price": null,
+            "nameEs": "Huevo"
+          },
+          {
+            "name": "Ham",
+            "price": null,
+            "nameEs": "Jamón"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Jalapenos",
+            "price": null,
+            "nameEs": "Jalapenos"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Flour Tortilla",
+            "price": null,
+            "nameEs": "Tortilla de harina"
+          },
+          {
+            "name": "Extra Egg",
+            "price": 2.5,
+            "nameEs": "Extra Huevo"
+          },
+          {
+            "name": "Add Avocado (Fresh Sliced)",
+            "price": 2.0,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 2.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 2.0,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Ham & Egg Burrito Extra Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Ham",
+            "price": 2.5,
+            "nameEs": "Extra Jamón"
+          },
+          {
+            "name": "Add Chorizo",
+            "price": 2.5,
+            "nameEs": "Agregar Chorizo"
+          },
+          {
+            "name": "Add Salchicha",
+            "price": 2.5,
+            "nameEs": "Agregar Salchicha"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/Gkyw7pdF5-mKb96YgHhPsvMzt33Uilqt2AyPKpDCWNI/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/0/item-1800000000047284600_1782021812.jpg",
+    "image": "/assets/menu/ham-egg-burrito.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2006c198-ed99-4138-af93-d5c1db337508/item-ham-egg-burrito_cce2c209-b18f-4ce1-a3ba-3042e6724162",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "ham-egg-torta",
+    "name": "ham egg torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2006c198-ed99-4138-af93-d5c1db337508/item-ham-egg-torta_ad09fef8-095c-4630-9f56-17dea33f260c",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "super-gallo-breakfast-torta",
+    "name": "Super Gallo Breakfast Torta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2006c198-ed99-4138-af93-d5c1db337508/item-super-gallo-breakfast-torta_559a8263-7d0b-4395-bfb5-7db1fba2e1d8",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Egg Style",
+        "required": false,
+        "selection": "Select up to 1",
+        "options": [
+          {
+            "name": "Over Easy",
+            "price": null,
+            "nameEs": "Estrellados, yema líquida"
+          },
+          {
+            "name": "Over Medium",
+            "price": null,
+            "nameEs": "Estrellados, yema semilíquida"
+          },
+          {
+            "name": "Over Hard",
+            "price": null,
+            "nameEs": "Estrellados, yema cocida"
+          },
+          {
+            "name": "Scrambled",
+            "price": null,
+            "nameEs": "Revueltos"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Super Gallo Breakfast Torta Mods",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Egg",
+            "price": null,
+            "nameEs": "Huevo"
+          },
+          {
+            "name": "Ham",
+            "price": null,
+            "nameEs": "Jamón"
+          },
+          {
+            "name": "Salchicha",
+            "price": null,
+            "nameEs": "Salchicha"
+          },
+          {
+            "name": "Monterey Jack",
+            "price": null,
+            "nameEs": "Monterey Jack"
+          },
+          {
+            "name": "Avocado (Fresh Sliced)",
+            "price": null,
+            "nameEs": "Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Chipotle",
+            "price": null,
+            "nameEs": "Totopootle"
+          },
+          {
+            "name": "Mayo",
+            "price": null,
+            "nameEs": "Mayonesa"
+          },
+          {
+            "name": "Telera",
+            "price": null,
+            "nameEs": "Telera"
+          },
+          {
+            "name": "Extra Monterey Jack",
+            "price": 2.5,
+            "nameEs": "Extra Monterey Jack"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced) 3 Slices",
+            "price": 1.25,
+            "nameEs": "Extra Aguacate fresco, 3 rebanadas"
+          },
+          {
+            "name": "Extra Egg",
+            "price": 2.5,
+            "nameEs": "Extra Huevo"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Breakfast Torta Extra Protein Options",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Extra Ham",
+            "price": 2.5,
+            "nameEs": "Extra Jamón"
+          },
+          {
+            "name": "Extra Salchicha",
+            "price": 2.5,
+            "nameEs": "Extra Salchicha"
+          },
+          {
+            "name": "Add Chorizo",
+            "price": 2.5,
+            "nameEs": "Agregar Chorizo"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/F08vNFJqdzn69Zd6tp62Ore7nicLsQ1MSXwRdtkacZ8/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/2/item-1800000000047284612_1782021960.jpg",
+    "image": "/assets/menu/super-gallo-breakfast-torta.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_2006c198-ed99-4138-af93-d5c1db337508/item-super-gallo-breakfast-torta_559a8263-7d0b-4395-bfb5-7db1fba2e1d8",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "burrito-bowl",
+    "name": "Burrito Bowl",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_c0c663e4-2f90-4f03-86ac-953fef479bac/item-burrito-bowl_12e1cfb7-2632-455e-9b25-11460a59bb21",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Burrito Bowl Topping Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Frijoles (Refried Beans)",
+            "price": null,
+            "nameEs": "Frijoles refritos"
+          },
+          {
+            "name": "Rice",
+            "price": null,
+            "nameEs": "Arroz"
+          },
+          {
+            "name": "Cilantro",
+            "price": null,
+            "nameEs": "Cilantro"
+          },
+          {
+            "name": "Onions",
+            "price": null,
+            "nameEs": "Cebolla"
+          },
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Add Sour Cream",
+            "price": 2.0,
+            "nameEs": "Agregar Crema agria"
+          },
+          {
+            "name": "Add Cheese",
+            "price": 2.0,
+            "nameEs": "Agregar Queso"
+          },
+          {
+            "name": "Add Avocado (Fresh Sliced)",
+            "price": 1.25,
+            "nameEs": "Agregar Aguacate fresco en rebanadas"
+          },
+          {
+            "name": "Add Guacamole",
+            "price": 0.99,
+            "nameEs": "Agregar Guacamole"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      },
+      {
+        "name": "Burrito Bowl Add Protein Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Add Asada",
+            "price": 3.0,
+            "nameEs": "Agregar Asada"
+          },
+          {
+            "name": "Add Pollo",
+            "price": 2.0,
+            "nameEs": "Agregar Pollo"
+          },
+          {
+            "name": "Add Buche",
+            "price": 2.0,
+            "nameEs": "Agregar Buche"
+          },
+          {
+            "name": "Add Pierna",
+            "price": 2.0,
+            "nameEs": "Agregar Pierna"
+          }
+        ],
+        "nameEs": "Proteína a elegir"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/bwUrmA88jdf8hzgHIMliLGZxPSyDKW7lu3Hot_3ovII/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/9/item-1800000000047282689_1782427143.jpg",
+    "image": "/assets/menu/burrito-bowl.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_c0c663e4-2f90-4f03-86ac-953fef479bac/item-burrito-bowl_12e1cfb7-2632-455e-9b25-11460a59bb21",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "green-salad",
+    "name": "Green Salad",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_c0c663e4-2f90-4f03-86ac-953fef479bac/item-green-salad_d9170070-a788-4444-bbb8-7819d31d19ee",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Green Salad Green Salad Modifier Group",
+        "required": false,
+        "selection": null,
+        "options": [
+          {
+            "name": "Lettuce",
+            "price": null,
+            "nameEs": "Lechuga"
+          },
+          {
+            "name": "Tomato",
+            "price": null,
+            "nameEs": "Tomate"
+          },
+          {
+            "name": "Cheese Panela",
+            "price": null,
+            "nameEs": "Queso panela"
+          },
+          {
+            "name": "Avocado",
+            "price": null,
+            "nameEs": "Aguacate"
+          },
+          {
+            "name": "Avocado Dressing",
+            "price": null,
+            "nameEs": "Aderezo de aguacate"
+          },
+          {
+            "name": "Extra Avocado (Fresh Sliced)",
+            "price": 2.0,
+            "nameEs": "Extra Aguacate fresco en rebanadas"
+          }
+        ],
+        "nameEs": "Ingredientes y opciones"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/1j-Y8Y_0CO2gOfI5mCvnueuZD9n-_GRbec-PZrYjlrc/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/1/item-1800000000047282691_1784152732.png",
+    "image": "/assets/menu/green-salad.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_c0c663e4-2f90-4f03-86ac-953fef479bac/item-green-salad_d9170070-a788-4444-bbb8-7819d31d19ee",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "mosaico-vaso",
+    "name": "Mosaico Vaso",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_67e73975-c4af-410f-a436-0ed69a8e0e04/item-mosaico-vaso_a6f8a5f4-f784-42b7-84c6-2dd7499a6a26",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/qyptS2GnamXHeoo-B0ojlWL_sjQsV8FJRLBr5UNe_ss/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/1/item-1800000000053399351_1782016049.jpg",
+    "image": "/assets/menu/mosaico-vaso.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_67e73975-c4af-410f-a436-0ed69a8e0e04/item-mosaico-vaso_a6f8a5f4-f784-42b7-84c6-2dd7499a6a26",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "arroz-con-leche-vaso",
+    "name": "Arroz Con Leche Vaso",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_67e73975-c4af-410f-a436-0ed69a8e0e04/item-arroz-con-leche-vaso_02ef5bcc-b843-4195-9cad-fecc22ba6e65",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/7FWWCmmbfNVooWxTL0nCfjf34mktOiqiC8GMexx3QrQ/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/3/item-1800000000053399223_1782015806.jpg",
+    "image": "/assets/menu/arroz-con-leche-vaso.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_67e73975-c4af-410f-a436-0ed69a8e0e04/item-arroz-con-leche-vaso_02ef5bcc-b843-4195-9cad-fecc22ba6e65",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "flan-vaso",
+    "name": "Flan Vaso",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_67e73975-c4af-410f-a436-0ed69a8e0e04/item-flan-vaso_99a53b38-99d1-4a98-9283-264f1a70cc4f",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/kaPxBR0DpKIj_UV_sTqvOSbPGRCqqYfguyRDVAJjXH0/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/1/item-1800000000053399241_1782015659.jpg",
+    "image": "/assets/menu/flan-vaso.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_67e73975-c4af-410f-a436-0ed69a8e0e04/item-flan-vaso_99a53b38-99d1-4a98-9283-264f1a70cc4f",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "agua-horchata",
+    "name": "agua horchata",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-horchata_298551a8-1aa3-4bdf-8915-5434fcf3a6f4",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "agua-mamey",
+    "name": "agua mamey",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-mamey_2a8621d0-51fa-41d0-85c0-b99a2980f44c",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "agua-jamaica-con-splenda",
+    "name": "Agua Jamaica Con Splenda",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-jamaica-con-splenda_e11ba9e8-c3b3-49b7-8c20-4bdc1486f690",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Jamaica Con Splenda Size",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "Small 20oz Agua Jamaica Con Splenda",
+            "price": 6.15,
+            "nameEs": "Chico 20oz Agua Jamaica Con Splenda"
+          },
+          {
+            "name": "Medium 32oz Agua Jamaica Con Splenda",
+            "price": 8.2,
+            "nameEs": "Mediano 32oz Agua Jamaica Con Splenda"
+          },
+          {
+            "name": "Large 44oz Agua Jamaica Con Splenda",
+            "price": 9.1,
+            "nameEs": "Grande 44oz Agua Jamaica Con Splenda"
+          },
+          {
+            "name": "Gallon Agua Jamaica Con Splenda",
+            "price": 27.99,
+            "nameEs": "Galón Agua Jamaica Con Splenda"
+          },
+          {
+            "name": "5 Gallon Agua Jamaica Con Splenda",
+            "price": 125.0,
+            "nameEs": "5 Galón Agua Jamaica Con Splenda"
+          }
+        ],
+        "nameEs": "Tamaño"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/1ZW9_LkjHvDMKwjVcJQgr3Mp09BvCF7lT_BFNdL0kGk/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/2/item-1800000000047283732_1782342058.jpg",
+    "image": "/assets/menu/agua-jamaica-con-splenda.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-jamaica-con-splenda_e11ba9e8-c3b3-49b7-8c20-4bdc1486f690",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "agua-chia-con-limon",
+    "name": "Agua Chia Con Limon",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-chia-con-limon_f790a2c6-5465-4bb3-b6be-5093f7665982",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Chia Con Limon Size",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "Small 20oz Agua Chia Con Limon",
+            "price": 6.15,
+            "nameEs": "Chico 20oz Agua Chia Con Limon"
+          },
+          {
+            "name": "Medium 32oz Agua Chia Con Limon",
+            "price": 8.2,
+            "nameEs": "Mediano 32oz Agua Chia Con Limon"
+          },
+          {
+            "name": "Large 44oz Agua Chia Con Limon",
+            "price": 9.1,
+            "nameEs": "Grande 44oz Agua Chia Con Limon"
+          },
+          {
+            "name": "Gallon Agua Chia Con Limon",
+            "price": 27.99,
+            "nameEs": "Galón Agua Chia Con Limon"
+          },
+          {
+            "name": "5 Gallon Agua Chia Con Limon",
+            "price": 125.0,
+            "nameEs": "5 Galón Agua Chia Con Limon"
+          }
+        ],
+        "nameEs": "Tamaño"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/vpnYdUdlwFyNBJ8zP3o0kB3VIrS0WRvmjHA_N01hqM8/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/4/item-1800000000047283734_1782342117.jpg",
+    "image": "/assets/menu/agua-chia-con-limon.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-chia-con-limon_f790a2c6-5465-4bb3-b6be-5093f7665982",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "agua-pepino-con-pina",
+    "name": "Agua Pepino Con Pina",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-pepino-con-pina_b523c021-abcd-4e4d-ad9a-18499be806c2",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Pepino Con Pina Size",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "Jr 16oz Agua Pepino Con Pina",
+            "price": 4.39,
+            "nameEs": "Jr 16oz Agua Pepino Con Pina"
+          },
+          {
+            "name": "Small 20oz Agua Pepino Con Pina",
+            "price": 6.15,
+            "nameEs": "Chico 20oz Agua Pepino Con Pina"
+          },
+          {
+            "name": "Medium 32oz Agua Pepino Con Pina",
+            "price": 8.2,
+            "nameEs": "Mediano 32oz Agua Pepino Con Pina"
+          },
+          {
+            "name": "Large 44oz Agua Pepino Con Pina",
+            "price": 9.1,
+            "nameEs": "Grande 44oz Agua Pepino Con Pina"
+          },
+          {
+            "name": "Gallon Agua Pepino Con Pina",
+            "price": 27.99,
+            "nameEs": "Galón Agua Pepino Con Pina"
+          }
+        ],
+        "nameEs": "Tamaño"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/dPNp_pUbGlDxisoRy4QGe4S2X0kd3KmwwQS6BuzGhtk/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/6/item-1800000000047283736_1784143372.jpg",
+    "image": "/assets/menu/agua-pepino-con-pina.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-pepino-con-pina_b523c021-abcd-4e4d-ad9a-18499be806c2",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "agua-mango-dragon-fruit",
+    "name": "Agua Mango Dragon Fruit",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-mango-dragon-fruit_82923c7b-d51d-482b-a82a-3ac281b2d4cc",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Mango Dragon Fruit Size",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "Small 20oz Agua Mango Dragon Fruit",
+            "price": 6.15,
+            "nameEs": "Chico 20oz Agua Mango Dragon Fruit"
+          },
+          {
+            "name": "Medium 32oz Agua Mango Dragon Fruit",
+            "price": 8.2,
+            "nameEs": "Mediano 32oz Agua Mango Dragon Fruit"
+          },
+          {
+            "name": "Large 44oz Agua Mango Dragon Fruit",
+            "price": 9.1,
+            "nameEs": "Grande 44oz Agua Mango Dragon Fruit"
+          },
+          {
+            "name": "Gallon Agua Mango Dragon Fruit",
+            "price": 27.99,
+            "nameEs": "Galón Agua Mango Dragon Fruit"
+          },
+          {
+            "name": "5 Gallon Agua Mango Dragon Fruit",
+            "price": 125.0,
+            "nameEs": "5 Galón Agua Mango Dragon Fruit"
+          }
+        ],
+        "nameEs": "Tamaño"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/TNbdN_P4AbX9DbwaeWWJS9zlFvQ0FiklTlnvypnz_S0/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/8/item-1800000000047283738_1782342196.jpg",
+    "image": "/assets/menu/agua-mango-dragon-fruit.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_312f9a24-ba16-4a0d-9e43-ed199a37d78e/item-agua-mango-dragon-fruit_82923c7b-d51d-482b-a82a-3ac281b2d4cc",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "coke",
+    "name": "Coke",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-coke_dff442bb-a39a-4984-b79f-72146ed3cea9",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Coke Size",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "Small 20oz Coke",
+            "price": 2.59,
+            "nameEs": "Chico 20oz Coke"
+          },
+          {
+            "name": "Medium 32oz Coke",
+            "price": 2.99,
+            "nameEs": "Mediano 32oz Coke"
+          },
+          {
+            "name": "Large 44oz Coke",
+            "price": 3.29,
+            "nameEs": "Grande 44oz Coke"
+          }
+        ],
+        "nameEs": "Tamaño"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/e9Yb-bQ_AAXLc9LUUVvIHv-iIdagV7VP8XnYas81WMs/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/6/item-1800000000047283996_1782367513.jpg",
+    "image": "/assets/menu/coke.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-coke_dff442bb-a39a-4984-b79f-72146ed3cea9",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "diet-coke",
+    "name": "Diet Coke",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-diet-coke_b551b869-fae7-411d-ae34-3d89461365e8",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Diet Coke Size",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "Small 20oz Diet Coke",
+            "price": 2.59,
+            "nameEs": "Chico 20oz Diet Coke"
+          },
+          {
+            "name": "Medium 32oz Diet Coke",
+            "price": 2.99,
+            "nameEs": "Mediano 32oz Diet Coke"
+          },
+          {
+            "name": "Large 44oz Diet Coke",
+            "price": 3.29,
+            "nameEs": "Grande 44oz Diet Coke"
+          }
+        ],
+        "nameEs": "Tamaño"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/ntElJIrHP_aAljtSgXyIAiBRzcxJKWXxUs87ksyh4vE/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/0/item-1800000000047284200_1782367610.jpg",
+    "image": "/assets/menu/diet-coke.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-diet-coke_b551b869-fae7-411d-ae34-3d89461365e8",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "sprite",
+    "name": "Sprite",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-sprite_90d9cbd8-ff2b-4341-9166-22908f28c5b1",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Sprite Size",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "Small 20oz Sprite",
+            "price": 2.59,
+            "nameEs": "Chico 20oz Sprite"
+          },
+          {
+            "name": "Medium 32oz Sprite",
+            "price": 2.99,
+            "nameEs": "Mediano 32oz Sprite"
+          },
+          {
+            "name": "Large 44oz Sprite",
+            "price": 3.29,
+            "nameEs": "Grande 44oz Sprite"
+          }
+        ],
+        "nameEs": "Tamaño"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/iyiWrFn71FGQ0Ho4fa1s1XrqJqDdfoMND2cX1iJpQqs/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/4/item-1800000000047284204_1782367554.jpg",
+    "image": "/assets/menu/sprite.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-sprite_90d9cbd8-ff2b-4341-9166-22908f28c5b1",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "fanta",
+    "name": "fanta",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-fanta_c21b5e43-cb93-4dbe-bcf3-52e0197857c5",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "cafe-de-olla",
+    "name": "Cafe de Olla",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-cafe-de-olla_d2d199bb-5ebb-49e3-946c-93e486f38f0e",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Cafe de Olla Size",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "12oz Cafe De Olla",
+            "price": 2.59,
+            "nameEs": "12oz Cafe De Olla"
+          },
+          {
+            "name": "20oz Cafe De Olla",
+            "price": 3.89,
+            "nameEs": "20oz Cafe De Olla"
+          },
+          {
+            "name": "96oz Cafe De Olla",
+            "price": 19.98,
+            "nameEs": "96oz Cafe De Olla"
+          }
+        ],
+        "nameEs": "Tamaño"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/5-6kB3TWyEx6QNlhFl1xgujBJ4C22zPVh0NcsgbtnGc/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/6/item-1800000000047284226_1782367367.jpg",
+    "image": "/assets/menu/cafe-de-olla.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-cafe-de-olla_d2d199bb-5ebb-49e3-946c-93e486f38f0e",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "champurrado",
+    "name": "Champurrado",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-champurrado_596cdcda-f6c9-4246-ae8c-1ad95ea6323e",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [
+      {
+        "name": "Champurrado Size",
+        "required": true,
+        "selection": "Select 1",
+        "options": [
+          {
+            "name": "12oz Champurrado",
+            "price": 4.99,
+            "nameEs": "12oz Champurrado"
+          },
+          {
+            "name": "20oz Champurrado",
+            "price": 6.99,
+            "nameEs": "20oz Champurrado"
+          },
+          {
+            "name": "96oz Champurrado",
+            "price": 31.99,
+            "nameEs": "96oz Champurrado"
+          }
+        ],
+        "nameEs": "Tamaño"
+      }
+    ],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/HcZ-ggeDv_alV3WNJFZYkLEX1f8yv74je-nqJlfUsbo/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/8/item-1800000000047284228_1782367471.jpg",
+    "image": "/assets/menu/champurrado.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-champurrado_596cdcda-f6c9-4246-ae8c-1ad95ea6323e",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "bottled-water",
+    "name": "Bottled Water",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-bottled-water_5f51c6e7-75ce-44f6-b344-23324456dab3",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/S4OZLSIbYuyoCfgf3-m4mqqLjj7g9avZf3E7XdgHXXk/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/9/item-1800000000128304469_1784153753.png",
+    "image": "/assets/menu/bottled-water.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_886d3c89-131c-47ce-9151-c30f998d9078/item-bottled-water_5f51c6e7-75ce-44f6-b344-23324456dab3",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "bolillo",
+    "name": "bolillo",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_4e528c98-5664-4c15-b761-eba68bb85f4f/item-bolillo_0e04186a-93f0-4d7a-8fe6-b4d3ebef5afc",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "unavailable",
+    "groups": [],
+    "imageSource": null,
+    "image": null,
+    "imagePageSource": null,
+    "imageRestaurantId": null
+  },
+  {
+    "id": "concha-blanca",
+    "name": "Concha Blanca",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_ba28c1f0-a0fe-4ace-b754-88d667959ffa/item-concha-blanca_f6f28999-0062-4c81-ab89-94debce0177c",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/AnwOnaiM-cxZw3UN5FAS_hak1ZmWQKNFXKJeUB2o_OM/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/9/item-1800000000064564999_1782023734.jpg",
+    "image": "/assets/menu/concha-blanca.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_ba28c1f0-a0fe-4ace-b754-88d667959ffa/item-concha-blanca_f6f28999-0062-4c81-ab89-94debce0177c",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "concha-chocolate",
+    "name": "Concha Chocolate",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_ba28c1f0-a0fe-4ace-b754-88d667959ffa/item-concha-chocolate_387b5714-d0a2-469e-b8b3-94e66dfaa857",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/EBfuMinKUqxUseeV-0BtFVtH0E4MwwLboXm2N3qnqyk/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/1/item-1800000000064566151_1782023810.jpg",
+    "image": "/assets/menu/concha-chocolate.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_ba28c1f0-a0fe-4ace-b754-88d667959ffa/item-concha-chocolate_387b5714-d0a2-469e-b8b3-94e66dfaa857",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "bigote-danes",
+    "name": "Bigote Danes",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_88b2fc82-f62b-4429-914c-1557e263c033/item-bigote-danes_b6993daf-f88c-455b-b6e5-02ee9be79916",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/70TUtNONmVUH14hOQUZBL8clVAw85L_nSGrsDKs8H58/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/5/item-1800000000064567705_1782026013.jpg",
+    "image": "/assets/menu/bigote-danes.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_88b2fc82-f62b-4429-914c-1557e263c033/item-bigote-danes_b6993daf-f88c-455b-b6e5-02ee9be79916",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "cuerno-danes",
+    "name": "Cuerno Danes",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_88b2fc82-f62b-4429-914c-1557e263c033/item-cuerno-danes_81c9bc17-0937-4f7f-9dc1-bd9da7699730",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/T9ICR2Ik1E1M0EdHBl2xIVqJoRyHzWWnVk9Bkpvf8II/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/7/item-1800000000064567707_1782026572.jpg",
+    "image": "/assets/menu/cuerno-danes.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_88b2fc82-f62b-4429-914c-1557e263c033/item-cuerno-danes_81c9bc17-0937-4f7f-9dc1-bd9da7699730",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "feite-guayaba",
+    "name": "Feite Guayaba",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_16c31b89-1932-4f8f-b2f5-d90b019743c1/item-feite-guayaba_b29b28bb-11ac-496a-8257-e43b5772c130",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/PNrN4-FAmIsXsHiAArA_AnCECZa9MW6x6WRNfR9RAPg/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345139000000000000/menu/items/0/item-1800000000064568020_1782026757.jpg",
+    "image": "/assets/menu/feite-guayaba.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_16c31b89-1932-4f8f-b2f5-d90b019743c1/item-feite-guayaba_b29b28bb-11ac-496a-8257-e43b5772c130",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "elote-fino",
+    "name": "Elote Fino",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_6fa284bf-8679-46c7-a48d-42628535538e/item-elote-fino_6c7fb49b-74e0-4f29-926f-19472c961a6d",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/I9ysXZLaELYvSXnYdrSioeFmy11XsZQ3c0dUXxjaxCw/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/4/item-1800000000064568124_1782509569.jpg",
+    "image": "/assets/menu/elote-fino.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_6fa284bf-8679-46c7-a48d-42628535538e/item-elote-fino_6c7fb49b-74e0-4f29-926f-19472c961a6d",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "puerquitos",
+    "name": "Puerquitos",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_3c933666-c85d-4cb8-9945-1f25d4ba4d10/item-puerquitos_67b8460c-ba6d-4286-bfb5-3a6eb55e0bdf",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/G-OkkBtPGsek9wNX3HPgSSJGYblMlMa_kZPkAbYdYkM/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345081000000000000/menu/items/5/item-1800000000064570595_1782368904.jpg",
+    "image": "/assets/menu/puerquitos.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_3c933666-c85d-4cb8-9945-1f25d4ba4d10/item-puerquitos_67b8460c-ba6d-4286-bfb5-3a6eb55e0bdf",
+    "imageRestaurantId": "santa-ana"
+  },
+  {
+    "id": "pan-de-muerto-pequeno",
+    "name": "Pan De Muerto Pequeno",
+    "detailSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_7d8ec906-2e30-4a1b-af82-d6c6d1cf0c0d/item-pan-de-muerto-pequeno_0ae8a00b-2e7e-4045-830e-562e3543daea",
+    "restaurantId": "santa-ana",
+    "collectedAt": "2026-10-25",
+    "detailStatus": "captured",
+    "groups": [],
+    "imageSource": "https://d1w7312wesee68.cloudfront.net/_CVfYlOX-DLmX83PSeLU224DXx6dqcJ8qkFv1jM5TKs/resize%3Afit%3A720%3A720/plain/s3%3A//toasttab/restaurants/restaurant-345193000000000000/menu/items/1/item-1800000000064571711_1789495425.jpg",
+    "image": "/assets/menu/pan-de-muerto-pequeno.jpg",
+    "imagePageSource": "https://gallogiro.com/menu/el-gallo-giro-santa-ana-1442-south-bristol-street/group_7d8ec906-2e30-4a1b-af82-d6c6d1cf0c0d/item-pan-de-muerto-pequeno_0ae8a00b-2e7e-4045-830e-562e3543daea",
+    "imageRestaurantId": "santa-ana"
+  }
+]
